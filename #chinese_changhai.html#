@@ -1,0 +1,391 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>卢昌海个人主页</title>
+<meta http-equiv="Content-Type" content="texty/html; charset=UTF-8" />
+<meta name="Description" content="Changhai Lu's Homepage" />
+<script src="auxiliary/scripts/jquery_mini.js" type="text/JavaScript"></script>
+<script src="auxiliary/scripts/scripts.js" type="text/javascript"></script>
+<link rel="stylesheet" href="auxiliary/scripts/font.css" type="text/css" />
+<link rel="stylesheet" href="auxiliary/scripts/content.css" type="text/css" />
+<link href="feed.xml" rel="alternate" type="application/rss+xml" title="Changhai Lu's Homepage" />
+</head><!-- BOM is not allowed -->
+<body onload="">
+<table class="header" cellspacing="0">
+	<!-- header -->
+	<tr>
+		<td class="header-h-separator" colspan="21"></td>
+	</tr>
+	<tr>
+		<td class="menu-empty" style="width: 85px;">&nbsp;</td>
+		<td class="menu" title="FRONTPAGE" onclick="javascript:gotoPage('index.php')">网站首页</td>
+		<td class="menu-v-separator"></td>
+		<td class="menu" title="RETROSPECTION" onclick="javascript:gotoPage('indices/retrospection.php')">往昔追忆</td>
+		<td class="menu-v-separator"></td>
+		<td class="menu" title="ALBUM" onclick="javascript:gotoPage('indices/album.php')">浮光掠影</td>
+		<td class="menu-v-separator"></td>
+		<td class="menu" title="SCIENCE" onclick="javascript:gotoPage('indices/science.php')">科学园地</td>
+		<td class="menu-v-separator"></td>
+		<td class="menu" title="TECHNOLOGY" onclick="javascript:gotoPage('indices/technology.php')">技术广角</td>
+		<td class="menu-v-separator"></td>
+		<td class="menu" title="MISCELLANEOUS" onclick="javascript:gotoPage('indices/miscellaneous.php')">笑傲江湖</td>
+		<td class="menu-v-separator"></td>
+		<td class="menu" title="TRANSLATION" onclick="javascript:gotoPage('indices/translation.php')">翻译作品</td>
+		<td class="menu-v-separator"></td>
+		<!--td class="menu" title="MICROBLOG" onclick="javascript:gotoPage('http://www.weibo.com/ChanghaiNews?is_all=1')">站长微博</td-->
+		<td class="menu" title="MICROBLOG" onclick="javascript:gotoPage('http://www.weibo.com/ChanghaiBlog?is_all=1')">站长微博</td>
+		<td class="menu-v-separator"></td>
+		<!--td class="menu" title="FORUM" onclick="javascript:gotoPage('fxkz/')">繁星客栈</td>
+		<td class="menu-v-separator"></td-->
+		<td class="menu" title="REVIEWS" onclick="javascript:gotoPage('indices/reviews.php')">评论选录</td>
+		<td class="menu-empty" style="width: 85px;">&nbsp;</td>
+	</tr>
+	<tr>
+		<td class="header-h-separator" colspan="21"></td>
+	</tr>
+	<tr>
+		<td class="welcome" colspan="21">
+				<span id="welcome">欢　迎　访　问　卢　昌　海　个　人　主　页</span>
+				<noscript>
+				<p class="center warning">由于您的浏览器不支持 JavaScript，您将无法使用本站的部分功能。</p>
+				</noscript>
+		</td>
+	</tr>
+</table>
+<script type="text/javascript">
+	$('.menu').mouseover(function() {
+		$(this).attr('class', 'menu-highlight');
+	});
+	$('.menu').mouseout(function() {
+		$(this).attr('class', 'menu');
+	});
+</script>
+<!-- main -->
+<table class="main" cellspacing="1">
+	<tr>
+		<td class="main-meta" id="main-meta">
+		<table class="main-meta" cellspacing="0">
+			<tr>
+				<td class="main-meta-welcome" colspan="3">
+									<p class="left" style="padding-left:15px; padding-bottom:10px; margin-bottom:0px; margin-top:0px;">除了自己的无知，<br />我什么都不懂。</p>
+					<p class="right" style="padding-right:15px; padding-bottom:5px; padding-top:0px; margin-top:0px;">－苏格拉底</p>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="main-meta-date" colspan="3">
+									<script type="text/javascript">getdate("cn")</script>
+								</td>
+			</tr>
+			<tr><td class="main-meta-separator-top"><div style="height: 1px; overflow:hidden">&nbsp;</div></td><td class="main-meta-title" style="width:40%;" rowspan="3">信 息</td><td class="main-meta-separator-top"><div style="height: 1px; overflow:hidden">&nbsp;</div></td></tr><tr><td class="main-meta-separator"></td><td class="main-meta-separator"></td></tr><tr><td class="main-meta-separator-bottom"><div style="height: 1px; overflow:hidden">&nbsp;</div></td><td class="main-meta-separator-bottom"><div style="height: 1px; overflow:hidden">&nbsp;</div></td></tr><tr>
+<td class="main-meta-td" colspan="3">
+<a href="articles/introduction/publications.php">已发表作品列表</a><br />
+<a href="articles/introduction/personal_data.php">站长简介</a> | 
+<a href="articles/introduction/page_faqs.php">常见问题</a><br />
+<a href="articles/introduction/copyright.php">版权说明</a> | 
+<a href="mailto:lu_changhai@yahoo.com">电子信箱</a>
+</td>
+</tr>
+<tr><td class="main-meta-separator-top"><div style="height: 1px; overflow:hidden">&nbsp;</div></td><td class="main-meta-title" style="width:40%;" rowspan="3">统 计</td><td class="main-meta-separator-top"><div style="height: 1px; overflow:hidden">&nbsp;</div></td></tr><tr><td class="main-meta-separator"></td><td class="main-meta-separator"></td></tr><tr><td class="main-meta-separator-bottom"><div style="height: 1px; overflow:hidden">&nbsp;</div></td><td class="main-meta-separator-bottom"><div style="height: 1px; overflow:hidden">&nbsp;</div></td></tr>			<tr>
+				<td class="main-meta-td" colspan="3">
+				<!--自 2008-02-01 以来本文点击数 1778978-->
+				自 2008-02-01 以来<br />
+				本站点击数<br />16,981,406				<br />昨日点击数 5,817				<br />今日点击数 5,311				<!--br />当前热度 &deg;C-->
+								</td>
+			</tr>
+					</table>
+		</td>
+		<td class="main-body">
+		<table class="main-body" id="main-body" cellpadding="20" cellspacing="0">
+			<tr>
+				<td class="article-container">
+			
+<script src="auxiliary/scripts/jquery.carouFredSel.js" type="text/javascript"></script>
+<script type="text/JavaScript">
+function updateLists(e) {
+	var wheight = jQuery(window).height();
+	var num_of_items = Math.floor((wheight - 570) / jQuery('tr.listItem').outerHeight()) - 2;
+	jQuery('tr.inplicit, tr.explicit', document.getElementById('randomList')).each(function(i){
+		if (i >= num_of_items)
+			$(this).attr('class', 'inplicit');
+		else
+			$(this).attr('class', 'explicit');
+	});
+	jQuery('tr.inplicit, tr.explicit', document.getElementById('newList')).each(function(i){
+		if (i >= num_of_items)
+			$(this).attr('class', 'inplicit');
+		else
+			$(this).attr('class', 'explicit');
+	});
+}
+$(function() {
+	var $c = $('#carousel'),
+		$w = $(window);
+
+	$c.carouFredSel({
+		align: false,
+		items: 4,
+		scroll: {
+			items: 1,
+			duration: 1500,
+			timeoutDuration: 0,
+			easing: 'linear',
+			pauseOnHover: 'immediate'
+		}
+	});
+});
+$(document).ready(function() {
+	var leftCoord = $('#wrapper').position().left + $('#bookAnchor2').width() + 302 + 'px';
+	var topCoord = $('#wrapper').position().top + 7 + 'px';
+	$('#mag').css('left', leftCoord);
+	$('#mag').css('top', topCoord);
+	
+	$('#carousel img').mouseover(function(e) {
+		var src = $(e.target).attr('src');
+		var newSrc = src.substring(0, src.length-5) + src.substring(src.length-4, src.length);
+		$('#magImg').attr('src', newSrc);
+
+		$('#magImg').css('display', 'inline');
+		$('#mag').css('z-index', '999');
+	}).mouseout(function(e) {
+		$('#magImg').css('display', 'none');
+		$('#mag').css('z-index', '-1');		
+	});
+	
+	//preload images
+	function preload(arrayOfImages) {
+	    $(arrayOfImages).each(function(){
+	        (new Image()).src = this;
+	    });
+	}
+	
+	preload([
+	    'files/images/01.jpg',
+	    'files/images/02.jpg',
+	    'files/images/03.jpg',
+	    'files/images/04.jpg',
+	    'files/images/05.jpg',
+	    'files/images/06.jpg',
+	    'files/images/07.jpg',
+	    'files/images/08.jpg',
+	    'files/images/09.jpg'
+	]);
+});
+</script>
+
+<!-- main contents go here -->
+<table style="width:100%;">
+<tr>
+<td rowspan="2" style="width: 305px;; border-right: 1px solid black; padding-right: 30px;">
+	<table style="width: 100%;">
+	<tr>
+	<td class="section-header">
+	邮购链接	</td>
+	</tr>
+	<tr>	
+<td style="padding-top: 3px; padding-bottom:1px;"><div id="wrapper">
+			<div id="carousel">
+				<div>
+					<a href="http://product.dangdang.com/25101157.html"><img src="files/images/09s.jpg" alt="" /></a>
+				</div>
+				<div>
+					<a href="http://product.dangdang.com/24167956.html"><img src="files/images/08s.jpg" alt="" /></a>
+				</div>
+				<div>
+					<a href="http://product.dangdang.com/23953811.html"><img src="files/images/07s.jpg" alt="" /></a>
+				</div>
+				<div>
+					<a href="http://product.dangdang.com/23726227.html"><img src="files/images/06s.jpg" alt="" /></a>
+				</div>
+				<div>
+					<a href="http://product.dangdang.com/23503910.html"><img src="files/images/05s.jpg" alt="" /></a>
+				</div>
+				<div>
+					<a href="http://product.dangdang.com/23379445.html"><img src="files/images/04s.jpg" alt="" /></a>
+				</div>
+				<div>
+					<a href="http://product.dangdang.com/24014064.html"><img src="files/images/03s.jpg" alt="" /></a>
+				</div>
+				<div>
+					<a href="http://product.dangdang.com/23751752.html"><img src="files/images/02s.jpg" alt="" /></a>
+				</div>
+				<div>
+					<a href="http://product.dangdang.com/23379447.html"><img src="files/images/01s.jpg" alt="" /></a>
+				</div>
+			</div>
+		</div>
+		<div id="mag">
+			<img id="magImg" src="" alt="" />
+		</div>	</td>
+	</tr>
+	<tr>
+	<td>
+		<table id="randomList" style="width: 100%;">
+		<tr>
+		<td colspan="2" class="section-header">
+		随机文选
+		</td>
+		</tr>
+		<tr class="listItem"><td style="width: 72px; padding-left: 15px; padding-top: 14px; padding-bottom: 0px; white-space:nowrap;">翻译作品:</td>
+<td style="padding-top: 14px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/translation/mathematics/good_maths1.php" title="发表于 2007-03-11">什么是好数学？ (上)</a></div></td></tr>
+<tr class="listItem"><td style="width: 72px; padding-left: 15px; padding-top: 4px; padding-bottom: 0px; white-space:nowrap;">笑傲江湖:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/miscellaneous/blog/201506.php" title="发表于 2015-07-04">微言小义 (2015.06)</a></div></td></tr>
+<tr class="listItem"><td style="width: 72px; padding-left: 15px; padding-top: 4px; padding-bottom: 0px; white-space:nowrap;">往昔追忆:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/retrospection/roommate.php" title="发表于 2001-03-20">室友</a></div></td></tr>
+<tr class="listItem"><td style="width: 72px; padding-left: 15px; padding-top: 4px; padding-bottom: 0px; white-space:nowrap;">科学园地:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/science/physics/energy_condition/singularity_theorem_3.php" title="发表于 2006-09-15">奇点与奇点定理简介 (三)</a></div></td></tr>
+<tr class="listItem"><td style="width: 72px; padding-left: 15px; padding-top: 4px; padding-bottom: 0px; white-space:nowrap;">科学园地:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/science/mathematics/four_square_theorem.php" title="发表于 2005-09-27">Lagrange 四平方定理</a></div></td></tr>
+<tr class="listItem"><td style="width: 72px; padding-left: 15px; padding-top: 4px; padding-bottom: 0px; white-space:nowrap;">笑傲江湖:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/miscellaneous/misc/jobs.php" title="发表于 2011-10-09">随笔之 Steve Jobs 篇</a></div></td></tr>
+<tr class="listItem"><td style="width: 72px; padding-left: 15px; padding-top: 4px; padding-bottom: 0px; white-space:nowrap;">笑傲江湖:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/novel/dangpu/030.php" title="发表于 2010-02-21">天机当铺　第六章　(2)</a></div></td></tr>
+<tr class="listItem"><td style="width: 72px; padding-left: 15px; padding-top: 4px; padding-bottom: 0px; white-space:nowrap;">笑傲江湖:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/novel/dangpu/031.php" title="发表于 2010-02-24">天机当铺　第六章　(3)</a></div></td></tr>
+<tr class="listItem"><td style="width: 72px; padding-left: 15px; padding-top: 4px; padding-bottom: 0px; white-space:nowrap;">技术广角:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/technology/programming/opengl4.php" title="发表于 2003-03-12">OpenGL Tutorial (4)</a></div></td></tr>
+<tr class="listItem"><td style="width: 72px; padding-left: 15px; padding-top: 4px; padding-bottom: 0px; white-space:nowrap;">浮光掠影:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/tours/2006_china/index_nj1.php" title="发表于 2008-03-21">二零零六年回国图集之六朝古都</a></div></td></tr>
+<tr class="listItem"><td style="width: 72px; padding-left: 15px; padding-top: 4px; padding-bottom: 0px; white-space:nowrap;">笑傲江湖:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/miscellaneous/bible/03.php" title="发表于 2017-01-26">第三只眼看《圣经》之创世七日谈 (3)</a></div></td></tr>
+<tr class="listItem"><td style="width: 72px; padding-left: 15px; padding-top: 4px; padding-bottom: 0px; white-space:nowrap;">浮光掠影:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/tours/2006_china/index_nj2.php" title="发表于 2008-04-28">二零零六年回国图集之民国遗址</a></div></td></tr>
+<tr class="inplicit"><td style="width: 72px; padding-left: 15px; padding-top: 4px; padding-bottom: 0px; white-space:nowrap;">浮光掠影:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/tours/2012_Macau/index.php" title="发表于 2015-09-01">澳门掠影</a></div></td></tr>
+<tr class="inplicit"><td style="width: 72px; padding-left: 15px; padding-top: 4px; padding-bottom: 0px; white-space:nowrap;">笑傲江湖:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/miscellaneous/blog/201601.php" title="发表于 2016-02-17">微言小义 (2016.01)</a></div></td></tr>
+<tr class="inplicit"><td style="width: 72px; padding-left: 15px; padding-top: 4px; padding-bottom: 0px; white-space:nowrap;">科学园地:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/science/physics/particles/muon_amm1.php" title="发表于 2009-02-04">μ 子反常磁矩之谜 (一)</a></div></td></tr>
+<tr class="inplicit"><td style="width: 72px; padding-left: 15px; padding-top: 4px; padding-bottom: 0px; white-space:nowrap;">技术广角:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/technology/misc/angrybirds.php" title="发表于 2012-01-06">“愤怒的小鸟” 飞进课堂</a></div></td></tr>
+<tr class="inplicit"><td style="width: 72px; padding-left: 15px; padding-top: 4px; padding-bottom: 0px; white-space:nowrap;">科学园地:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/science/astronomy/voyage/wormhole_1.php" title="发表于 2002-09-26">Wormhole: 遥远的天梯 (上)</a></div></td></tr>
+<tr class="inplicit"><td style="width: 72px; padding-left: 15px; padding-top: 4px; padding-bottom: 0px; white-space:nowrap;">技术广角:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/technology/misc/robot_and_laws.php" title="发表于 2014-08-01">机器人与阿西莫夫定律</a></div></td></tr>
+<tr class="inplicit"><td style="width: 72px; padding-left: 15px; padding-top: 4px; padding-bottom: 0px; white-space:nowrap;">技术广角:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/technology/misc/clocks.php" title="发表于 2009-04-01">从日晷到原子钟</a></div></td></tr>
+<tr class="inplicit"><td style="width: 72px; padding-left: 15px; padding-top: 4px; padding-bottom: 0px; white-space:nowrap;">科学园地:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/science/astronomy/sun/07.php" title="发表于 2010-06-26">太阳的故事 之 推算太阳的质量、光度和表面温度</a></div></td></tr>
+<tr class="inplicit"><td style="width: 72px; padding-left: 15px; padding-top: 4px; padding-bottom: 0px; white-space:nowrap;">笑傲江湖:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/novel/dangpu/041.php" title="发表于 2010-08-08">天机当铺　第八章　(1)</a></div></td></tr>
+<tr class="inplicit"><td style="width: 72px; padding-left: 15px; padding-top: 4px; padding-bottom: 0px; white-space:nowrap;">科学园地:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/science/misc/IAS.php" title="发表于 2016-09-12">高等研究院的不高等之处</a></div></td></tr>
+<tr class="inplicit"><td style="width: 72px; padding-left: 15px; padding-top: 4px; padding-bottom: 0px; white-space:nowrap;">翻译作品:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/translation/physics/EinsteinMistake1.php" title="发表于 2009-10-25">爱因斯坦的错误 (上)</a></div></td></tr>
+<tr class="inplicit"><td style="width: 72px; padding-left: 15px; padding-top: 4px; padding-bottom: 0px; white-space:nowrap;">科学园地:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/science/misc/zeno_paradox.php" title="发表于 2004-05-20">芝诺悖论浅析</a></div></td></tr>
+		</table>
+	</td>
+	</tr>
+	</table>
+</td>
+<td style="width: 305px;; padding-left: 25px;">
+	<table id="newList" style="width: 100%;">
+	<tr>
+	<td colspan="2" class="section-header">
+	最近更新
+	</td>
+	</tr>
+	<tr>
+	<td colspan="2" class="center" style="padding-top: 10px; padding-bottom:8px;">
+:: <a href="discussion/stat_recent_posts.php" title="最新讨论：155 小时之前">网友讨论</a> (<a id="rss1" href="discussion-rss.xml" title="订阅网友讨论 (含茶室)">订阅</a>) | <a href="indices/updates.php">全部更新</a> (<a id="rss2" href="feed.xml" title="订阅站长作品">订阅</a>) ::	</td>
+	</tr>
+	<tr class="listItem"><td style="width: 80px; padding-left: 15px; padding-top: 4px; vertical-align:bottom; padding-bottom: 0px; white-space:nowrap;">2017-08-27:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/miscellaneous/people/AboutHaber.php" title="收录于 “笑傲江湖” 栏目">哈伯传记拾零</a></div></td></tr>
+<tr class="listItem"><td style="width: 80px; padding-left: 15px; padding-top: 4px; vertical-align:bottom; padding-bottom: 0px; white-space:nowrap;">2017-08-13:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/miscellaneous/blog/201707.php" title="收录于 “笑傲江湖” 栏目">微言小义 (2017.07)</a></div></td></tr>
+<tr class="listItem"><td style="width: 80px; padding-left: 15px; padding-top: 4px; vertical-align:bottom; padding-bottom: 0px; white-space:nowrap;">2017-07-26:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/tours/2014_Nassau/index.php" title="收录于 “浮光掠影” 栏目">拿骚掠影</a></div></td></tr>
+<tr class="listItem"><td style="width: 80px; padding-left: 15px; padding-top: 4px; vertical-align:bottom; padding-bottom: 0px; white-space:nowrap;">2017-07-19:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/science/physics/gravitationalwave/09.php" title="收录于 “科学园地” 栏目">时空的乐章——引力波百年漫谈 (九)</a></div></td></tr>
+<tr class="listItem"><td style="width: 80px; padding-left: 15px; padding-top: 4px; vertical-align:bottom; padding-bottom: 0px; white-space:nowrap;">2017-07-04:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/miscellaneous/blog/201706.php" title="收录于 “笑傲江湖” 栏目">微言小义 (2017.06)</a></div></td></tr>
+<tr class="listItem"><td style="width: 80px; padding-left: 15px; padding-top: 4px; vertical-align:bottom; padding-bottom: 0px; white-space:nowrap;">2017-06-16:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/miscellaneous/blog/201704.php" title="收录于 “笑傲江湖” 栏目">微言小义 (2017.04 - 2017.05)</a></div></td></tr>
+<tr class="listItem"><td style="width: 80px; padding-left: 15px; padding-top: 4px; vertical-align:bottom; padding-bottom: 0px; white-space:nowrap;">2017-06-05:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/science/physics/gravitationalwave/08.php" title="收录于 “科学园地” 栏目">时空的乐章——引力波百年漫谈 (八)</a></div></td></tr>
+<tr class="listItem"><td style="width: 80px; padding-left: 15px; padding-top: 4px; vertical-align:bottom; padding-bottom: 0px; white-space:nowrap;">2017-05-18:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/miscellaneous/blog/201703.php" title="收录于 “笑傲江湖” 栏目">微言小义 (2017.03)</a></div></td></tr>
+<tr class="listItem"><td style="width: 80px; padding-left: 15px; padding-top: 4px; vertical-align:bottom; padding-bottom: 0px; white-space:nowrap;">2017-05-10:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/technology/misc/WeiboTest.php" title="收录于 “技术广角” 栏目">新浪微博 “真粉率” 测试小结</a></div></td></tr>
+<tr class="listItem"><td style="width: 80px; padding-left: 15px; padding-top: 4px; vertical-align:bottom; padding-bottom: 0px; white-space:nowrap;">2017-04-28:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/science/physics/gravitationalwave/07.php" title="收录于 “科学园地” 栏目">时空的乐章——引力波百年漫谈 (七)</a></div></td></tr>
+<tr class="listItem"><td style="width: 80px; padding-left: 15px; padding-top: 4px; vertical-align:bottom; padding-bottom: 0px; white-space:nowrap;">2017-04-03:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/miscellaneous/blog/201702.php" title="收录于 “笑傲江湖” 栏目">微言小义 (2017.02)</a></div></td></tr>
+<tr class="listItem"><td style="width: 80px; padding-left: 15px; padding-top: 4px; vertical-align:bottom; padding-bottom: 0px; white-space:nowrap;">2017-03-24:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/science/physics/gravitationalwave/06.php" title="收录于 “科学园地” 栏目">时空的乐章——引力波百年漫谈 (六)</a></div></td></tr>
+<tr class="listItem"><td style="width: 80px; padding-left: 15px; padding-top: 4px; vertical-align:bottom; padding-bottom: 0px; white-space:nowrap;">2017-03-14:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/miscellaneous/blog/201701.php" title="收录于 “笑傲江湖” 栏目">微言小义 (2017.01)</a></div></td></tr>
+<tr class="listItem"><td style="width: 80px; padding-left: 15px; padding-top: 4px; vertical-align:bottom; padding-bottom: 0px; white-space:nowrap;">2017-03-02:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/miscellaneous/bible/04.php" title="收录于 “笑傲江湖” 栏目">第三只眼看《圣经》之创世七日谈 (4)</a></div></td></tr>
+<tr class="listItem"><td style="width: 80px; padding-left: 15px; padding-top: 4px; vertical-align:bottom; padding-bottom: 0px; white-space:nowrap;">2017-02-22:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/miscellaneous/blog/postscript.php" title="收录于 “笑傲江湖” 栏目">我的 “微言小义” (后记)</a></div></td></tr>
+<tr class="listItem"><td style="width: 80px; padding-left: 15px; padding-top: 4px; vertical-align:bottom; padding-bottom: 0px; white-space:nowrap;">2017-02-13:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/science/physics/gravitationalwave/05.php" title="收录于 “科学园地” 栏目">时空的乐章——引力波百年漫谈 (五)</a></div></td></tr>
+<tr class="inplicit"><td style="width: 80px; padding-left: 15px; padding-top: 4px; vertical-align:bottom; padding-bottom: 0px; white-space:nowrap;">2017-01-26:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/miscellaneous/bible/03.php" title="收录于 “笑傲江湖” 栏目">第三只眼看《圣经》之创世七日谈 (3)</a></div></td></tr>
+<tr class="inplicit"><td style="width: 80px; padding-left: 15px; padding-top: 4px; vertical-align:bottom; padding-bottom: 0px; white-space:nowrap;">2017-01-10:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/miscellaneous/misc/Actor_n_Puppet.php" title="收录于 “笑傲江湖” 栏目">主角与玩偶</a></div></td></tr>
+<tr class="inplicit"><td style="width: 80px; padding-left: 15px; padding-top: 4px; vertical-align:bottom; padding-bottom: 0px; white-space:nowrap;">2017-01-03:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/miscellaneous/blog/201611.php" title="收录于 “笑傲江湖” 栏目">微言小义 (2016.11 - 2016.12)</a></div></td></tr>
+<tr class="inplicit"><td style="width: 80px; padding-left: 15px; padding-top: 4px; vertical-align:bottom; padding-bottom: 0px; white-space:nowrap;">2016-12-09:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/science/physics/gravitationalwave/04.php" title="收录于 “科学园地” 栏目">时空的乐章——引力波百年漫谈 (四)</a></div></td></tr>
+<tr class="inplicit"><td style="width: 80px; padding-left: 15px; padding-top: 4px; vertical-align:bottom; padding-bottom: 0px; white-space:nowrap;">2016-12-08:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/science/misc/Einstein_and_Dostoevsky.php" title="收录于 “科学园地” 栏目">爱因斯坦与陀斯妥耶夫斯基</a></div></td></tr>
+<tr class="inplicit"><td style="width: 80px; padding-left: 15px; padding-top: 4px; vertical-align:bottom; padding-bottom: 0px; white-space:nowrap;">2016-11-17:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/miscellaneous/blog/201610.php" title="收录于 “笑傲江湖” 栏目">微言小义 (2016.10)</a></div></td></tr>
+<tr class="inplicit"><td style="width: 80px; padding-left: 15px; padding-top: 4px; vertical-align:bottom; padding-bottom: 0px; white-space:nowrap;">2016-11-04:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/science/physics/gravitationalwave/03.php" title="收录于 “科学园地” 栏目">时空的乐章——引力波百年漫谈 (三)</a></div></td></tr>
+<tr class="inplicit"><td style="width: 80px; padding-left: 15px; padding-top: 4px; vertical-align:bottom; padding-bottom: 0px; white-space:nowrap;">2016-10-24:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/miscellaneous/blog/201609.php" title="收录于 “笑傲江湖” 栏目">微言小义 (2016.09)</a></div></td></tr>
+<tr class="inplicit"><td style="width: 80px; padding-left: 15px; padding-top: 4px; vertical-align:bottom; padding-bottom: 0px; white-space:nowrap;">2016-10-09:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/miscellaneous/misc/AboutBooks.php" title="收录于 “笑傲江湖” 栏目">我的读书与买书</a></div></td></tr>
+<tr class="inplicit"><td style="width: 80px; padding-left: 15px; padding-top: 4px; vertical-align:bottom; padding-bottom: 0px; white-space:nowrap;">2016-09-22:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/miscellaneous/blog/201607.php" title="收录于 “笑傲江湖” 栏目">微言小义 (2016.07 - 2016.08)</a></div></td></tr>
+<tr class="inplicit"><td style="width: 80px; padding-left: 15px; padding-top: 4px; vertical-align:bottom; padding-bottom: 0px; white-space:nowrap;">2016-09-12:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/science/misc/IAS.php" title="收录于 “科学园地” 栏目">高等研究院的不高等之处</a></div></td></tr>
+<tr class="inplicit"><td style="width: 80px; padding-left: 15px; padding-top: 4px; vertical-align:bottom; padding-bottom: 0px; white-space:nowrap;">2016-08-31:</td>
+<td style="padding-top: 4px; padding-bottom: 0px;"><div class="scrollTitle"><a href="articles/science/astronomy/planets/postscript.php" title="收录于 “科学园地” 栏目">经典行星的故事 (后记)</a></div></td></tr>
+	</table>
+</td>
+</tr>
+</table>
+<script type="text/JavaScript">
+$('.scrollTitle').mouseover(function(){
+	var elem = this;
+	var itme_to_left = setInterval(function(){
+		elem.scrollLeft+=3;
+	},30);
+	$(elem).mouseout(function(){
+		if (itme_to_left)
+			clearInterval(itme_to_left);
+		elem.scrollLeft = 0;
+	});
+} );
+
+$(window).ready(updateLists).resize(updateLists);
+</script>
+
+				</td>
+			</tr>
+		</table>
+		</td>
+	</tr>
+</table>
+<table class="footer" cellspacing="0">
+<tr>
+<td class="center vcenter out-bg">
+Copyright &copy; 1999-2017 by Changhai Lu. All rights reserved.<br />
+</td>
+</tr>
+</table>
+<script type="text/JavaScript">
+	$('.menu[title=MICROBLOG]').css('color', 'red');
+	try {
+		$('#rss1').css('color', 'red');
+		$('#rss2').css('color', 'red');
+	} catch (err) {}
+</script>
+</body>
+</html>

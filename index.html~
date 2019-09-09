@@ -1,0 +1,146 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Ziang Yan | PhD Student at UBC</title>
+<link rel="stylesheet" href="style.css" />
+<script type="text/x-mathjax-config">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+  MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+</script>
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-107033118-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'UA-107033118-1');
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-107033118-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?8c9808e245dd1bdf87d701907bf9c5d6";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<body>
+<a name="top"></a>
+<div class="container">
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+
+
+ <div class="sidebar">
+
+    	<p>
+
+<ul class="nav">
+
+<div class="center">
+<div class="image-cropper">
+ <img src="index.png" alt="Avatar" align="middle", width=100%> 
+</div>
+</div>
+<p></p>
+<b>Ziang Yan</b><br />
+<font size="5">&#x989C;&#x5B50;&#x6602<font size="5"><br />
+<font size="4"><i>PhD Student in Physics
+
+at UBC</i></font>
+        </p>
+<p>
+
+<li><a href="index.html">About</a></li>
+<li><a href="resume.html">Resume</a></li>
+<li><a href="research.html">Research</a></li>
+<li><a href="publication.html">Publications</a></li>
+        </p>
+      <p>
+      </b>
+
+      </p>
+      <a href="database.html">Links</a>   
+       <a href="more_about_me.html">More about me</a>
+
+
+</ul>
+</div>
+
+
+  <div class="content">
+
+<h1 style="color:#002859;">About</h1>
+
+ <p text-align:justify>My name is Ziang Yan (&#x989C;&#x5B50;&#x6602), a PhD student in physics at <a href="http://www.phas.ubc.ca/" target="_blank">Department of Physics and Astronomy, University of British Columbia</a>. I'm working with <a href="https://www.phas.ubc.ca/users/gary-hinshaw" target="_blank">Prof. Gary Hinshaw</a> and <a href="http://www.phas.ubc.ca/~waerbeke/" target="_blank">Prof. Ludovic van Waerbeke</a>.</p> 
+<p> My work focuses partly on cross-analysing different large-scale structure tracers to probe properties of galaxy clusters and large-scale structures of the universe. I'm also interested in probing properties of galaxy clusters with cosmoligycal hydrodynamic simulations (e.g. BAHAMAS) and machine learning. The other part of my work involved with the CLASS telescope which is now measuring the polarized CMB signal to reveal the mystery of cosmological inflation.</p>
+<p><b>Contact me</b>: yanza15 at phas.ubc.ca </p>    
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+</body>
+</html>
+
+       
+       
+       <p align="right">
+       <a href="#top">Back to top of page</a><br><br><br>
+
+
+
+<!-- Start: Copyright 2017 TraceMyIP.org Service Code (031658-09052017)- DO NOT MODIFY //-->
+<!--<div style="line-height:16px;text-align:center;"><script type="text/javascript" src="//s2.tracemyip.org/tracker/lgUrl.php?stlVar2=1306&amp;rgtype=4684NR-IPIB&amp;pidnVar2=81049&amp;prtVar2=1&amp;scvVar2=12"></script><noscript><a href="https://www.tracemyip.org/tools/link-click-tracker-ad-clicks-counter-ip-blocker/"><img src="//s2.tracemyip.org/tracker/1306/4684NR-IPIB/81049/1/12/ans/" alt="download tracking software" style="border:0px;"></a></noscript></div>-->
+<!-- End: TraceMyIP.org Service Code //-->
+     </p>
+       </p>
+     
+     
+   </blockquote>
+
+  <!-- end .content --></div>
+ <!-- <div class="footer">
+    <p>&nbsp;</p>
+  <!-- end .footer --></div>
+  <!-- end .container --></div> 
+
+</body>
+
+</html>

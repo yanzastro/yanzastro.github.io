@@ -1,0 +1,153 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Ziang Yan | PhD Student at UBC</title>
+<link rel="stylesheet" href="style.css" />
+<script type="text/x-mathjax-config">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+  MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+</script>
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-107033118-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'UA-107033118-1');
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-107033118-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?8c9808e245dd1bdf87d701907bf9c5d6";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<body>
+<a name="top"></a>
+<div class="container">
+
+ <div class="sidebar">
+    <ul class="nav">
+    	<p>
+
+<div class="center">
+<div class="image-cropper">
+ <img src="index.png" alt="Avatar" align="middle", width=100%> 
+</div>
+</div>
+<p></p>
+<b>Ziang Yan</b><br />
+<font size="5">&#x989C;&#x5B50;&#x6602<font size="5"><br />
+<font size="4"><i>PhD Student in Physics
+
+at UBC</i></font>
+        </p>
+<p>
+<li><a href="index.html">About</a></li>
+<li><a href="resume.html">Resume</a></li>
+<li><a href="research.html">Research</a></li>
+<li><a href="publication.html">Publications</a></li>
+        </p>
+      <p>
+      </b>
+
+      </p>
+      <li><a href="database.html">Links</a></li>
+      
+       <li><a href="more_about_me.html">More about me</a></li>
+
+    </ul>
+    <p>&nbsp;</p>
+
+</div>
+
+  <div class="content">
+   <blockquote>
+   
+<h1 style="color:#002859;"> My Research</h1>
+      <blockquote>
+<section>
+
+<h1 style="color:#002859;">Cosmology in a Nutshell</h1>
+ 
+<p> In Chinese, 'the Universe' is called 'Yu Zhou (&#x5B87;&#x5B99;)'. As an ancient Chinese philosopher Shi Jiao (390 B.C-330 B.C) said: "The surrounding space is called 'Yu(&#x5B87;)'; the time from past to future is called 'Zhou(&#x5B99;)'.(&#x4E0A;&#x4E0B;&#x56DB;&#x65B9;&#x66F0;&#x5B87;&#xFF0C;&#x5F80;&#x53E4;&#x6765;&#x4ECA;&#x66F0;&#x5B99;&#x2014;&#x2014;&#x300A;&#x5C38;&#x5B50;&#x300B;)" This is a perfect definition of "the Universe": all of space and time. Cosmology is the origin, evolution, and eventual fate of the universe. </p>
+<p>
+          At the beginning of the 20th century, Einstein proposed General Relativity, the theory of spacetime geometry. In 1917, Einstein published &ldquo;<em>Cosmological Considerations in the General Theory of Relativity.</em>&rdquo; It is the first paper to study the structure of our universe using. It started an era of physical cosmology. Fundamental theory on how the cosmos evolves were developed before 1940's and expains the famous discovery by Edwin Hubble: the universe is expanding. The theory is called the &quot;Big Bang Theory&quot;. It describes how the universe expanded from a very high-density and high-temperature state.</p>
+        <p align="center"><img src="research-1.jpg" width="529" height="307" /></p>
+        <p align="center">(Expanding universe. Image from </p>
+        <p align="center"><a href="http://wethesikhs.com/wp-content/uploads/2015/11/expansion.jpg" target="_blank">http://wethesikhs.com/wp-content/uploads/2015/11/expansion.jpg</a>)</p>
+        <p>The Big Bang cosmology assumes that the universe is both homogeneous and isotropic. However, observations show that the universe doesn't look that uniform, it has 'large scale structures' like galaxy clusters and 'filaments' connecting them. Studies on cosmological inhomogeneities and anisotropies grow up in the latter half of 20th century. Observations on CMB anisotropies, spatial distribution of matters and so on confirm these theory. These studies answer the question like 'how does the large scale structure form and evolve?'</p>
+
+<p> Another exciting (but puzzling) observation of the universe is that the ordinary atomic matter and energy constitute only 4.6% of the universe while the rests are unknown. The rests are invisible, so they are called 'dark matter' and 'dark energy'. What are they? Where are they? How do they interact? A big goal of modern cosmology is to answer these questions.</p>
+        <p align="center"><img src="Universe_content.jpg" width="700" height="246" /></p>
+        <p align="center">(Content of the universe. Image from </p>
+        <p align="center"><a href="http://scienceblogs.com/startswithabang/files/2012/10/Universe_content.jpg" target="_blank">http://scienceblogs.com/startswithabang/files/2012/10/Universe_content.jpg</a>)</p>
+
+<p>The standard model of our universe is called the &#x039B;CDM model. Roughly speaking, it is a parametrized Big Bang Theory with assumptions about dark matter and dark energy. There are 6 fundamental parameters in the &#x039B;CDM model, they describe the expanding speed of the universe, the content of each ingredient and the property of large scale structure. This model has been tested by vast amound of observational data and the parameters are constrained by different kinds of observations.</p>
+
+<p>An important supplement of the &#x039B;CDM model is the 'cosmological inflation', which describes a dramatically acceleration phase of the early universe (when the universe was 10<sup>-36</sup> seconds old). During inflation, the universe expands by 10<sup>26</sup> in 10<sup>-32</sup> seconds. The inflation was first proposed to solve some puzzles in &#x039B;CDM model, but there are no direct evidence to prove its existence.
+
+<p>In addition to what is said above, there are tons of questions in cosmology, which makes it a lively descipline of modern physics and astronomy. The main method to study them is by observations. I am quite excited by the idea that we can take the universe as a laboratory and learn the fate of it as well as fundamental physics.</p>
+</section>
+      </blockquote>
+      <blockquote>
+<section>
+<h1 style="color:#002859;">My Research</h1>
+
+        <p>My research interest mainy focuses on CMB and large scale structure. CMB polarization is a highly potential observation for solving the mystery of inflation. Polarized CMB radiation is generated by the quadupole on the last scattering surface at z~1100. It is the imprint of primordial gravitational waves generated by quantum fluctuations during inflation. The patterm of CMB polarization can be decomposed into a curl-free E-mode and a divergence-free B-mode. The B-mode is recognized as a &quot;smoking gun&quot; signature of inflation.</p>
+        <p align="center"><img src="pol.gif" width="476" height="239" align="absmiddle" /></p>
+        <p align="center">(CMB polarization is generated by local quadrupole. Right panel shows the pattern of E- and B-mode. Image from: <a href="http://background.uchicago.edu/~whu/araa/node13.html" target="_blank">http://background.uchicago.edu/~whu/araa/node13.html</a>)</p>
+        
+        <p>My master research partly focused on the instrument analysis of a proposed space-based telescope called the Primordial Inflation Explorer (PIXIE). Currently I'm a member of the Cosmology Large Angular Scale Surveyor (CLASS) group. It is an on-going ground-based CMB polarization telescope located in Atacama, Chile. It maps 70% of the sky at 40, 90, 150 and 220GHz with a resolution about 1<sup>&#176;</sup>. My current work is to analyse its sky maps and comparing them with former experiments.</p>
+
+<p> Another part of my work is to probe the physics of galaxy clusters via thermal Sunyaev-Zeldovich(tSZ) and gravitational lensing. The tSZ effect is the inverse-Compton scattering of CMB photons which causes a shift in CMB frequency spectrum. It helps probe the baryonic physics in clusters. Gravitational lensing is the magnification and distortion of distant sources due to the bending of light by gravity in between. Since it is a pure gravitational effect, it reveals the existence and spatial distribution of dark energy. I'm currently doing a cross analysis between these two effects with data.</p>
+
+<p align="center"><float style="width:600px;">	    <img src="cmb-sz1.png" alt="" style="width:250px; height:240px;" width="220" hspace="30" height="242" align="left">
+      <img src="cmb-sz2.jpg" alt="" style="width:220px; height:231px;" width="220" height="231"></float></p>
+        <p align="center">Left: tSZ effect; Right: spectral distortion of CMB by tSZ effect.</p>
+
+      </blockquote>
+</section>
+</body>
+</html>
+
+       
+       
+<p align="right">
+       <a href="#top">Back to top of page</a>
+     </p>
+       </p>
+     
+     
+   </blockquote>
+  <!-- end .content --></div>
+ <!-- <div class="footer">
+    <p>&nbsp;</p>
+  <!-- end .footer --></div>
+  <!-- end .container --></div> 
+  
+</body>
+</html>

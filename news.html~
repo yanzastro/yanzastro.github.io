@@ -1,0 +1,114 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>News</title>
+<link rel="stylesheet" href="style.css" />
+
+<body>
+<a name="top"></a>
+<div class="container">
+
+<div class="navheader">
+<table align="right" width="467">
+<tr>
+<td width="56">
+<navh>
+<a href="http://www.ubc.ca/" target="_blanck">UBC</a>
+
+</navh>
+</td>
+<td width="98">
+<navh>
+<a href="http://www.phas.ubc.ca/" target="_blanck">UBC PHAS</a>
+
+</navh>
+</td>
+<td width="134">
+<navh>
+<a href="https://cas.id.ubc.ca/ubc-cas/login?TARGET=https%3A%2F%2Fssc.adm.ubc.ca%2Fsscportal%2Fservlets%2FSRVSSCFramework%3FTARGET%3Dhttps%253A%252F%252Fssc.adm.ubc.ca%252Fsscportal%252Fservlets%252FSRVSSCFramework" target="_blanck">UBC SSC</a>
+
+</navh>
+</td>
+<td width="159">
+<navh>
+<a href="https://secure.phas.ubc.ca/login.php?req_url=/index.php" target="_blanck">PHAS Intranet</a>
+
+</navh>
+</td>
+
+</tr>
+</table>
+</div>
+
+
+<div class="header">
+  
+  <table width="800">
+          <td width="350" height="100"></td>
+        <td width="623"><h1 id="siteName">Homepage of Zi'ang Yan</h1></td>
+  </table>
+    
+<!-- end .header --></div>
+  <div class="sidebar1">
+    <ul class="nav">
+    	<p>
+        <br />
+        Introduction
+        </p>
+      <li><a href="index.html">About Me</a></li>
+      <li><a href="resume.html">Resume</a></li>
+      <li><a href="research.html">Research</a></li>
+      <li><a href="publication.html">Publication</a></li>
+      <p>
+      </b>
+     <br />
+        Cosmology
+      </p>
+      <li><a href="database.html">Database</a></li>
+      <li><a href="tools.html">Tools</a></li>
+       <p>
+       <br />
+       Other Links</p>
+      
+      <li><a href="news.html">News links</a></li>
+      
+       <li><a href="more_about_me.html">More about me</a></li>
+    </ul>
+    <p>&nbsp;</p>
+    <!-- end .sidebar1 --></div>
+  <div class="content">
+   <blockquote>
+   
+<h1 style="color:#002859;"> News Links</h1>
+<p style="color:#002859;">Physics world: <a href="http://physicsworld.com/" target="_blank">http://physicsworld.com/</a></p>
+<p style="color:#002859;">Science daily: <a href="https://www.sciencedaily.com/" target="_blank">https://www.sciencedaily.com/</a></p>
+<blockquote>
+  <p style="color:#002859;">Space	and time: <a href="https://www.sciencedaily.com/news/space_time/" target="_blank">https://www.sciencedaily.com/news/space_time/</a></p>
+  <p style="color:#002859;">Astronomy: <a href="https://www.sciencedaily.com/news/space_time/astronomy/">https://www.sciencedaily.com/news/space_time/astronomy/</a></p>
+  <p style="color:#002859;">Cosmology: <a href="https://www.sciencedaily.com/news/space_time/cosmology/" target="_blank">https://www.sciencedaily.com/news/space_time/cosmology/</a></p>
+</blockquote>
+<p style="color:#002859;">Physics.org-news: <a href="http://www.physics.org/news.asp" target="_blank">http://www.physics.org/news.asp</a></p>
+<p style="color:#002859;">NASA Science News: <a href="http://science.nasa.gov/science-news/" target="_blank">http://science.nasa.gov/science-news/</a></p>
+<p style="color:#002859;">SAO astro News: <a href="https://saoastronews.wordpress.com/" target="_blank">https://saoastronews.wordpress.com/</a></p>
+
+</body>
+</html>
+
+       
+       
+<p align="right">
+       <a href="#top">Back to top of page</a>
+     </p>
+       </p>
+     
+     
+   </blockquote>
+  <!-- end .content --></div>
+ <!-- <div class="footer">
+    <p>&nbsp;</p>
+  <!-- end .footer --></div>
+  <!-- end .container --></div> 
+  
+</body>
+</html>

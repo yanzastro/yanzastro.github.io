@@ -1,0 +1,148 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Ziang Yan | PhD Student at UBC</title>
+<link rel="stylesheet" href="style.css" />
+<script type="text/x-mathjax-config">
+
+
+  MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+</script>
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-107033118-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'UA-107033118-1');
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-107033118-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?8c9808e245dd1bdf87d701907bf9c5d6";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<body>
+<a name="top"></a>
+<div class="container">
+
+ <div class="sidebar">
+    <ul class="nav">
+    	<p>
+
+<div class="center">
+<div class="image-cropper">
+ <img src="index.png" alt="Avatar" align="middle", width=100%> 
+</div>
+</div>
+<p></p>
+<b>Ziang Yan</b><br />
+<font size="5">&#x989C;&#x5B50;&#x6602<font size="5"><br />
+<font size="4"><i>PhD Student in Physics
+
+at UBC</i></font>
+        </p>
+<p>
+<li><a href="index.html">About</a></li>
+<li><a href="resume.html">Resume</a></li>
+<li><a href="research.html">Research</a></li>
+<li><a href="publication.html">Publications</a></li>
+        </p>
+      <p>
+      </b>
+
+      </p>
+      <li><a href="database.html">Links</a></li>
+      
+       <li><a href="more_about_me.html">More about me</a></li>
+
+    </ul>
+    <p>&nbsp;</p>
+
+</div>
+
+  <div class="content">
+   <blockquote>
+   
+<h1 style="color:#002859;"> Publications</h1>
+<blockquote>
+<block>
+ <p style="color:#002859;"><a href="https://scholar.google.com/citations?user=knM-NWEAAAAJ&hl=en" target="_blank" class="navh">My Google Scholar Profile </a></p>
+ <p style="color:#002859;"><a href="http://inspirehep.net/author/profile/Z.Yan.14" target="_blank" class="navh">My INSPIREHEP Profile </a></p>
+</block>
+</blockquote>
+
+
+
+<h1 style="color:#002859;"> Talks</h1>
+<blockquote>
+<block>
+<p style = "margin:10px" >
+Galaxy Cluster Mass Estimations with Convolutional Neural Network and BAHAMAS Simulation (Invited talk at Institut d'Astrophysique Spatiale, 2019) </p> 
+<p style = "margin:10px" >
+Estimate the $\kappa$-CIB Contamination in $\kappa$-y Cross
+Correlation (UBC-SFU-TRIUMF adjoint meeting. March, 2017) </p>           
+<p style = "margin:10px" >
+Dark Energy as Cosmological Constant (Workshop at SSI2017) </p>
+<p style = "margin:10px" >
+Brief Introduction to Cosmology (Tsinghua Xuetang Physics Program Talk, 2014)</p>
+<p style = "margin:10px" >
+Noise Analysis for QUBIC Instrument (Tsinghua Xuetang Physics Program Summer Internship Report, 2014)
+</p>
+ </block>      
+   </blockquote>
+
+<h1 style="color:#002859;">Conference Posters</h1>
+<blockquote>
+<block>
+<p style = "margin:10px" >
+Galaxy Cluster Mis-centring Analysis with BAHAMAS Simulation (CosmoGold, IAP2019)</p>
+<p style = "margin:10px" >
+Evaluation of Contamination in the Reconstructed tSZ signal: Taking $\kappa\times y$ as an Example (SSI2017)</p>
+ </block>      
+   </blockquote>
+
+</body>
+</html>
+<br />
+<br />
+
+
+<p align="right">
+       <a href="#top">Back to top of page</a>
+     </p>
+       </p>
+     
+     
+   </blockquote>
+  <!-- end .content --></div>
+ <!-- <div class="footer">
+    <p>&nbsp;</p>
+  <!-- end .footer --></div>
+  <!-- end .container --></div> 
+  
+</body>
+</html>
