@@ -142,6 +142,7 @@ ul.navh li {
 }
 
 
+
 /* ~~ 导航列表样式（如果选择使用预先创建�?Spry 等弹出菜单，则可以删除此样式�?~~ */
 ul.nav {
 	list-style: none; /* 这将删除列表标记 */
@@ -149,13 +150,16 @@ ul.nav {
 	background-color: #097896;
 	line-height: 150%;
 }
-ul.nav li {
+
+li {
 	font-size: 100%;
 	border-top-style: none;
 	border-bottom-style: none;
         border-bottom: none;
 	color: #FFF;
 }
+
+
 ul.nav a, ul.nav a:visited { /* 对这些选择器进行分组可确保链接即使在访问之后也能保持其按钮外观 */
 	display: block;  /*此宽度使整个按钮�?IE6 中可单击。如果您不需要支�?IE6，可以删除它。请用侧栏容器的宽度减去此链接的填充来计算正确的宽度�?*/
 	text-decoration: none;
@@ -166,13 +170,20 @@ ul.nav a, ul.nav a:visited { /* 对这些选择器进行分组可确保链接即
 	margin: 0px;
 
 }
-ul.nav a:hover, ul.nav a:active, ul.nav a:focus { /* 这将更改鼠标和键盘导航的背景和文本颜�?*/
+ul.nav a:hover, ul.nav a.active, ul.nav a:focus { /* 这将更改鼠标和键盘导航的背景和文本颜�?*/
 	background-color: #FFF;
         border-bottom: none;
 	color: #002859;
 	height: 10%;
 }
 
+
+li a.active { /* 这将更改鼠标和键盘导航的背景和文本颜�?*/
+	background-color: #FFF;
+        border-bottom: none;
+	color: #002859;
+	height: 10%;
+}
 
 /* ~~ 脚注 ~~ */
 .footer {
@@ -201,14 +212,18 @@ ul.nav a:hover, ul.nav a:active, ul.nav a:focus { /* 这将更改鼠标和键盘
 
 
 
-
-
-
-
-
-
-
+ 
 @media only screen and (max-width: 1000px) {
+
+.container {
+	width: 100%;
+	background-color: #FFF; /* 侧边的自动值与宽度结合使用，可以将布局居中对齐 */
+	margin-top: 0;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 0;
+}
+
 
 .image-cropper {
     width:100%;
@@ -229,8 +244,8 @@ ul.nav a:hover, ul.nav a:active, ul.nav a:focus { /* 这将更改鼠标和键盘
 .sidebar {
 	width: 100%;
         left: 0;
-        position: relative;
-        bottom: 1000px;
+        position: absolute;
+        height: 55%;
 	background-color: #097896;
 	text-align: center;
 	font-size: 200%;
@@ -240,12 +255,11 @@ ul.nav a:hover, ul.nav a:active, ul.nav a:focus { /* 这将更改鼠标和键盘
 
 .content {
         top: 60%;
-
 	text-align: justify;
 	font-size: 180%;
-        left: -10%;
-        right: -10%;
-        width: 120%;
+        left: 0;
+        right: 0;
+        width: ;
 	color: #002859;
         z-index: -1;
 }
@@ -297,7 +311,15 @@ ul.nav a, ul.nav a:visited { /* 对这些选择器进行分组可确保链接即
 	margin: 0px;
 
 }
-ul.nav a:hover, ul.nav a:active, ul.nav a:focus { /* 这将更改鼠标和键盘导航的背景和文本颜�?*/
+ul.nav a:hover, ul.nav a.active, ul.nav a:focus { /* 这将更改鼠标和键盘导航的背景和文本颜�?*/
+	background-color: #FFF;
+        border-bottom: none;
+	color: #002859;
+	height: 10%;
+}
+
+
+li a.active { /* 这将更改鼠标和键盘导航的背景和文本颜�?*/
 	background-color: #FFF;
         border-bottom: none;
 	color: #002859;
@@ -331,4 +353,4 @@ ul.nav a:hover, ul.nav a:active, ul.nav a:focus { /* 这将更改鼠标和键盘
 
 
 }
-
+     
