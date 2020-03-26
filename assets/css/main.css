@@ -2722,11 +2722,11 @@ input, select, textarea {
 			}
 
 		#header header p {
-				color: #dbf7ff;
+				color: #F7FDFF;
 		}
 
 		#header a {
-				color: #dbf7ff;
+				color: #F7FDFF;
 		}
 
 			#header a:hover {
@@ -2742,26 +2742,26 @@ input, select, textarea {
 		}
 
 		#header > header .avatar {
-                    color: #dbf7ff;
+                    color: #F7FDFF;
 				display: block;
 				margin: 0 auto 2.25em auto;
 				width: 8em;
 			}
 
 			#header > header h1 {
-                            color: #dbf7ff;
+                            color: #F7FDFF;
 				font-size: 1.75em;
 				margin: 0;
 			}
                         
 			#header > header h2 {
-                            color: #dbf7ff;
+                            color: #F7FDFF;
 				font-size: 1.45em;
 				margin: 0.3em 0;
 			}
 
 			#header > header p {
-				color: #dbf7ff;
+				color: #F7FDFF;
 				font-style: italic;
 				margin: 1em 0 0 0;
 			}
@@ -2782,7 +2782,7 @@ input, select, textarea {
 			}
 
 				#header > footer .icons li a {
-					color: #94e6ff;
+					color: #E2F8FF;
 				}
 
 		#header > nav {
