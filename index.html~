@@ -1,0 +1,680 @@
+<!DOCTYPE HTML>
+<!--
+	Read Only by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Ziang Yan's Homepage</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<section id="header">
+				<header>
+					<span class="image avatar"><img src="images/index.png" alt="" /></span>
+					<h1 id="logo"><a href="#">Ziang Yan</a></h1>
+                                        <h2>颜子昂</h2>
+					<p>PhD Student in Physics at UBC<br />
+					</p>
+				</header>
+				<nav id="nav">
+					<ul>
+						<li><a href="#one" class="active">About</a></li>
+						<li><a href="#two">Resume</a></li>
+						<li><a href="#three">Research</a></li>
+						<li><a href="#four">Publications</a></li>
+
+                                                <li><a href="#five">Links</a></li>
+                                                <li><a href="#six">More about me</a></li>
+					</ul>
+				</nav>
+				<footer>
+					<ul class="icons">
+						<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+			                        <li><a href="#" class="icon brands fa fa-weibo"><span class="label">Weibo</span></a></li>
+						<li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>
+						<li><a href="#" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+					</ul>
+				</footer>
+			</section>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- One -->
+							<section id="one">
+								<div class="container">
+									<header class="major">
+										<h2>About</h2>
+
+
+									</header>
+ <p text-align:justify>My name is Ziang Yan (<a href="#four" title="The last name 'Yan' (IPA: [jɛn˧˥]) is pronounced like common English name 'Ian'. My first name Ziang (IPA: [t͡sɹ̩˨˩˦ ɑŋ˧˥]) contains essentially TWO syllables 'Zi' and 'ang' lasting equal amount of time. The initial 'Z-' is like '-ds' in 'kids'. The first syllable sounds like a flying bee 'dzzzz'. The second syllable 'ang' is like the vowel part of English world 'strONG'. So my first name sounds like 'dzzzz-ang'. 
+">how to pronounce it?</a>
+), a PhD student in physics at <a href="http://www.phas.ubc.ca/" target="_blank">Department of Physics and Astronomy, University of British Columbia</a>. I'm working with <a href="https://www.phas.ubc.ca/users/gary-hinshaw" target="_blank">Prof. Gary Hinshaw</a> and <a href="http://www.phas.ubc.ca/~waerbeke/" target="_blank">Prof. Ludovic van Waerbeke</a>.</p> 
+<p> My work focuses partly on cross-analysing different large-scale structure tracers to probe properties of galaxy clusters and large-scale structures of the universe. I'm also interested in probing properties of galaxy clusters with cosmoligycal hydrodynamic simulations (e.g. BAHAMAS) and machine learning. The other part of my work involved with the CLASS telescope which is now measuring the polarized CMB signal to reveal the mystery of cosmological inflation.</p>
+<p><b>Contact me</b>:</p>
+<p>Email: yanza15 at phas.ubc.ca </p>   
+<p>Office: Hennings 310D </p>   								</div>
+							</section>
+
+						<!-- Two -->
+							<section id="two">
+								<div class="container">
+									<h3>Resume</h3>
+<table width="100%" border="0" cellspacing="0" cellpadding="1" >
+
+              <tr> 
+                <td width="100%" colspan="2"><p align="justify" style="color:#002859;"><strong>EDUCATION</strong></p>
+                    <blockquote>
+                    <p align="justify">- <strong>PhD Student in Physics</strong>, University of British Columbia, Vancouver (2017.9-current)
+
+
+Supervisor: Profs. Gary Hinshaw and Ludovic van Waerbeke<br></p>
+
+
+
+                    <p align="justify">- <strong>Master of Science in Astronomy</strong>, University of British Columbia, Vancouver (2015.7-2017.8)
+                      Supervisor: Prof. Gary Hinshaw<br></p>
+
+
+                    <p align="justify">- <strong>Bachelor of Science in Physics</strong>, Tsinghua University, Beijing, China (2011.9-2015.7)
+                      Supervisor: Prof. <a href="http://www.tsinghua.edu.cn/publish/phyen/6033/2012/20120517084437658739068/20120517084437658739068_.html" target="_blank">Charling Tao</a><br></p>
+
+
+
+
+
+                  </blockquote>
+                  <p align="justify" style="color:#002859;"><strong>RESEARCH EXPERIENCE</strong></p>
+
+                    <blockquote>
+
+                    <p align="justify"><strong>Graduate Research Assistant</strong>, University of British Columbia (Current) </br>
+
+                    <strong>Group Member</strong>, Cosmology Group of Peking University (09/14-07/15)</br>
+
+                    <strong> Undergraduate Research Assistant</strong>,<a href="http://www.thca.tsinghua.edu.cn/en/index.php/Main_Page" target="_blank">THCA</a> (09/13-08/15)</br>
+
+                    <strong>Summer Internship</strong>, <a href="http://www.apc.univ-paris7.fr/APC_CS/en" target="_blank">APC</a> (07/14-08/14)</br>
+                    <strong>Tsinghua Student Research Training</strong> (2012-2013)</p>
+
+                    </blockquote>
+                    </blockquote>
+                 
+                  <p align="justify" style="color:#002859;"><strong>TEACHING EXPERIENCE </strong></p>
+                  <blockquote>
+                    <p align="justify"> Teaching Assistant:
+
+<p align="justify"> PHYS100: Introductory Physics,</br> PHYS101: Energy and Waves,</br> PHYS118: Electricity, Light and Radiation,</br>ASTR102: Introduction to Stars and Galaxies</br>PHYS521: Group Theory</br>PHYS571: Cosmology </p>
+                  </blockquote>
+                    </p>
+                  </blockquote>
+                  <p align="justify" style="color:#002859;"><strong>LANGUAGE SKILLS</strong>
+                  <blockquote>
+                    <p align="justify">Mandarin (Mother Tongue), English (Proficient), Japanese (Intermediate), German (Daily conversations), Cantonese (Moderate)
+
+                    </p>
+                      </blockquote>
+                  <p align="justify" style="color:#002859;"><strong>COMPUTER SKILLS</strong>                  
+                  <blockquote>
+                    <p align="justify">Language: Python, Fortran, L<span style="font-variant: small-caps; margin-left: -0.3em; vertical-align: 0.33ex; line-height: 0; margin-right: -0.1em">a</span>T<span style="text-transform: uppercase; margin-left: -0.1667em; vertical-align: -0.5ex; line-height: 0; margin-right: -0.125em">e</span>X, C, IDL                  </br>
+
+                    Software: IRAF, CAMB, Emacs
+                    </p>
+                  </blockquote>
+                  <p align="justify" style="color:#002859;"><strong>Honors                  </strong>                  
+                  <blockquote>
+                    <p align="justify">2018 UBC Four Year Doctoral Fellowship                </br>
+                    2016 Physics and Astronomy Graduate Scholarship                 </br>
+                   
+                    2015 Faculty of Science Graduate Award                </br>
+           
+                    2014 The outstanding academic scholarship of Guanghua</br>
+         2013-2015 Tsinghua Xuetang scholarship<br>
+
+         2013-2015 Member Student of <a href="http://www.tsinghua.edu.cn/publish/newthuen/newthuen_cnt/admissions/admissions-1-4.html" target="_blank">Tsinghua Xuetang Physics Program</a><br>
+
+           
+
+                   2012 The outstanding academic scholarship of Zheng Geru                  
+                  </blockquote>                </td>
+              </tr>
+            </table></td>
+        </tr>
+    </table>      
+    <p>&nbsp;</p></td>
+  </tr>
+</table>								</div>
+							</section>
+
+						<!-- Three -->
+							<section id="three">
+								<div class="container">
+									<h3>Research</h3>
+<p> In Chinese, 'the Universe' is called 'Yu Zhou (&#x5B87;&#x5B99;)'. As an ancient Chinese philosopher Shi Jiao (390 B.C-330 B.C) said: "The surrounding space is called 'Yu(&#x5B87;)'; the time from past to future is called 'Zhou(&#x5B99;)'.(&#x4E0A;&#x4E0B;&#x56DB;&#x65B9;&#x66F0;&#x5B87;&#xFF0C;&#x5F80;&#x53E4;&#x6765;&#x4ECA;&#x66F0;&#x5B99;&#x2014;&#x2014;&#x300A;&#x5C38;&#x5B50;&#x300B;)" This is a perfect definition of "the Universe": all of space and time. Cosmology is the origin, evolution, and eventual fate of the universe. </p>
+<p>
+          At the beginning of the 20th century, Einstein proposed General Relativity, the theory of spacetime geometry. In 1917, Einstein published &ldquo;<em>Cosmological Considerations in the General Theory of Relativity.</em>&rdquo; It is the first paper to study the structure of our universe using. It started an era of physical cosmology. Fundamental theory on how the cosmos evolves were developed before 1940's and expains the famous discovery by Edwin Hubble: the universe is expanding. The theory is called the &quot;Big Bang Theory&quot;. It describes how the universe expanded from a very high-density and high-temperature state.</p>
+        <p align="center"><img src="images/research-1.jpg" width=100% height=100% /></p>
+        <p align="center">(Expanding universe. Image from </p>
+        <p align="center"><a href="http://wethesikhs.com/wp-content/uploads/2015/11/expansion.jpg" target="_blank">here</a>)</p>
+        <p>The Big Bang cosmology assumes that the universe is both homogeneous and isotropic. However, observations show that the universe doesn't look that uniform, it has 'large scale structures' like galaxy clusters and 'filaments' connecting them. Studies on cosmological inhomogeneities and anisotropies grow up in the latter half of 20th century. Observations on CMB anisotropies, spatial distribution of matters and so on confirm these theory. These studies answer the question like 'how does the large scale structure form and evolve?'</p>
+
+<p> Another exciting (but puzzling) observation of the universe is that the ordinary atomic matter and energy constitute only 4.6% of the universe while the rests are unknown. The rests are invisible, so they are called 'dark matter' and 'dark energy'. What are they? Where are they? How do they interact? A big goal of modern cosmology is to answer these questions.</p>
+        <p align="center"><img src="images/Universe_content.jpg" width=100% height=100% /></p>
+        <p align="center">(Content of the universe. Image from </p>
+        <p align="center"><a href="http://scienceblogs.com/startswithabang/files/2012/10/Universe_content.jpg" target="_blank">here</a>)</p>
+
+<p>The standard model of our universe is called the &#x039B;CDM model. Roughly speaking, it is a parametrized Big Bang Theory with assumptions about dark matter and dark energy. There are 6 fundamental parameters in the &#x039B;CDM model, they describe the expanding speed of the universe, the content of each ingredient and the property of large scale structure. This model has been tested by vast amound of observational data and the parameters are constrained by different kinds of observations.</p>
+
+<p>An important supplement of the &#x039B;CDM model is the 'cosmological inflation', which describes a dramatically acceleration phase of the early universe (when the universe was 10<sup>-36</sup> seconds old). During inflation, the universe expands by 10<sup>26</sup> in 10<sup>-32</sup> seconds. The inflation was first proposed to solve some puzzles in &#x039B;CDM model, but there are no direct evidence to prove its existence.
+
+<p>In addition to what is said above, there are tons of questions in cosmology, which makes it a lively descipline of modern physics and astronomy. The main method to study them is by observations. I am quite excited by the idea that we can take the universe as a laboratory and learn the fate of it as well as fundamental physics.</p>
+
+
+
+
+<h1 style="color:#002859;">My Research</h1>
+
+        <p>My research interest mainy focuses on CMB and large scale structure. CMB polarization is a highly potential observation for solving the mystery of inflation. Polarized CMB radiation is generated by the quadupole on the last scattering surface at z~1100. It is the imprint of primordial gravitational waves generated by quantum fluctuations during inflation. The patterm of CMB polarization can be decomposed into a curl-free E-mode and a divergence-free B-mode. The B-mode is recognized as a &quot;smoking gun&quot; signature of inflation.</p>
+        <p align="center"><img src="images/pol.gif" width=100% height=100% align="absmiddle" /></p>
+        <p align="center">(CMB polarization is generated by local quadrupole. Right panel shows the pattern of E- and B-mode. Image from: <a href="http://background.uchicago.edu/~whu/araa/node13.html" target="_blank">here</a>)</p>
+        
+        <p>My master research partly focused on the instrument analysis of a proposed space-based telescope called the Primordial Inflation Explorer (PIXIE). Currently I'm a member of the Cosmology Large Angular Scale Surveyor (CLASS) group. It is an on-going ground-based CMB polarization telescope located in Atacama, Chile. It maps 70% of the sky at 40, 90, 150 and 220GHz with a resolution about 1<sup>&#176;</sup>. My current work is to analyse its sky maps and comparing them with former experiments.</p>
+
+<p> Another part of my work is to probe the physics of galaxy clusters via thermal Sunyaev-Zeldovich(tSZ) and gravitational lensing. The tSZ effect is the inverse-Compton scattering of CMB photons which causes a shift in CMB frequency spectrum. It helps probe the baryonic physics in clusters. Gravitational lensing is the magnification and distortion of distant sources due to the bending of light by gravity in between. Since it is a pure gravitational effect, it reveals the existence and spatial distribution of dark energy. I'm currently doing a cross analysis between these two effects with data.</p>
+
+<p align="center"><float style="width:600px;">	    <img src="images/cmb-sz1.png" alt="" style="width:250px; height:240px;" width="220" hspace="30" height=100% align="left">
+      <img src="cmb-sz2.jpg" alt="" style="width:220px; height:231px;" width="220" height="231"></float></p>
+        <p align="center">Left: tSZ effect; Right: spectral distortion of CMB by tSZ effect.</p>							</section>
+
+						<!-- Four -->
+							<section id="four">
+								<div class="container">
+									<h3>Publications</h3>
+<blockquote>
+<block>
+ <p style="color:#002859;"><a href="https://scholar.google.com/citations?user=knM-NWEAAAAJ&hl=en" target="_blank" class="navh">My Google Scholar Profile </a></p>
+ <p style="color:#002859;"><a href="http://inspirehep.net/author/profile/Z.Yan.14" target="_blank" class="navh">My INSPIREHEP Profile </a></p>
+</block>
+</blockquote>
+
+
+
+<h1 style="color:#002859;"> Talks</h1>
+<blockquote>
+  <block>
+    <p style = "margin:10px" >
+An analysis of galaxy cluster mis-centring using large scale hydrodynamical simulations (UBC-SFU-TRIUMF adjoint meeting, 2019)</p> 
+<p style = "margin:10px" >
+Galaxy Cluster Mass Estimations with Convolutional Neural Network and BAHAMAS Simulation (Invited talk at Institut d'Astrophysique Spatiale, 2019) </p> 
+<p style = "margin:10px" >
+Estimate the $\kappa$-CIB Contamination in $\kappa$-y Cross
+Correlation (UBC-SFU-TRIUMF adjoint meeting, 2017) </p>           
+<p style = "margin:10px" >
+Dark Energy as Cosmological Constant (Workshop at SSI2017) </p>
+<p style = "margin:10px" >
+Brief Introduction to Cosmology (Tsinghua Xuetang Physics Program Talk, 2014)</p>
+<p style = "margin:10px" >
+Noise Analysis for QUBIC Instrument (Tsinghua Xuetang Physics Program Summer Internship Report, 2014)
+</p>
+ </block>      
+   </blockquote>
+
+<h1 style="color:#002859;">Conference Posters</h1>
+<blockquote>
+<block>
+<p style = "margin:10px" >
+Galaxy Cluster Mis-centring Analysis with BAHAMAS Simulation (CosmoGold, IAP2019)</p>
+<p style = "margin:10px" >
+Evaluation of Contamination in the Reconstructed tSZ signal: Taking $\kappa\times y$ as an Example (SSI2017)</p>
+ </block>      
+   </blockquote>
+
+							</section>
+
+
+                                                        
+						<!-- Five -->
+							<section id="five">
+								<div class="container">
+									<h3>Links</h3>
+<p style="color:#002859;">My Github: <a href="https://github.com/yanzastro" target="_blank">https://github.com/yanzastro</a></p>
+
+
+<h1 style="color:#002859;"> Tools</h1>
+<p style="color:#002859;">Healpy: <a href="https://healpy.readthedocs.io/en/latest/" target="_blank">https://healpy.readthedocs.io/en/latest/</a></p>
+<blockquote>
+  <p style="color:#002859;">is a python version for <a href="http://healpix.sourceforge.net/" target="_blank">Healpix</a></p>
+</blockquote>
+<p style="color:#002859;">CAMB: <a href="http://camb.info/">http://camb.info/</a></p>
+<blockquote>
+  <p style="color:#002859;">a package calculating CMB angular power spectra and matter power spectra based on numerically solving Boltzman equation.</p>
+</blockquote>
+<p style="color:#002859;">astropy: <a href="http://www.astropy.org/" target="_blank">http://www.astropy.org/</a></p>
+<blockquote>
+  <p style="color:#002859;">a python package with many astronomy tools.</p>
+</blockquote>
+<p style="color:#002859;">cosmolopy: <a href="http://roban.github.io/CosmoloPy/" target="_blank">http://roban.github.io/CosmoloPy/</a></p>
+<blockquote>
+  <p style="color:#002859;">a cosmology package for python.</p>
+</blockquote>
+<p style="color:#002859;">Compos: <a href="https://github.com/yanzastro/compos" target="_blank">https://github.com/yanzastro/compos</a></p>
+<blockquote>
+  <p style="color:#002859;">a python package written by myself. It calculates transfer function, growth factor, matter power spectrum, nonlinear spectrum. </p>
+</blockquote>
+   
+<h1 style="color:#002859;"> Cosmology Database</h1>
+<p style="color:#002859;">Data:</p>
+<blockquote>
+  <p style="color:#002859;">Lambda@NASA: <a href="http://lambda.gsfc.nasa.gov/" target="_blank" class="navh">http://lambda.gsfc.nasa.gov/</a></p>
+
+  <p style="color:#002859;">Planck PLA: <a href="http://pla.esac.esa.int/pla/#home" target="_blank">http://pla.esac.esa.int/pla/#home</a></p>
+
+</blockquote>
+<p style="color:#002859;">Paper archieve:</p>
+<blockquote>
+  <p style="color:#002859;">ADS: <a href="http://adsabs.harvard.edu/" target="_blank">https://github.com/Astrolumos/Compos</a></p>
+  <p style="color:#002859;">arxiv-astro-ph.CO: <a href="http://arxiv.org/list/astro-ph.CO/recent" target="_blank">http://arxiv.org/list/astro-ph.CO/recent</a></p>
+</blockquote>
+<p style="color:#002859;">Project websites:</p>
+<blockquote>
+  <p style="color:#002859;">WMAP: <a href="http://map.gsfc.nasa.gov/" target="_blank">http://map.gsfc.nasa.gov/</a></p>
+  <p style="color:#002859;">Planck Satellite: <a href="http://www.cosmos.esa.int/web/planck" target="_blank">http://www.cosmos.esa.int/web/planck</a></p>
+  <p style="color:#002859;">Atagama Cosmology Telescope: <a href="https://act.princeton.edu/" target="_blank">https://act.princeton.edu/</a></p>
+  <p style="color:#002859;">CFHTLens: <a href="http://www.cfhtlens.org/" target="_blank">http://www.cfhtlens.org/</a></p>
+</blockquote>
+<h1 style="color:#002859;"> News Links</h1>
+<p style="color:#002859;">Physics world: <a href="http://physicsworld.com/" target="_blank">http://physicsworld.com/</a></p>
+<p style="color:#002859;">Science daily: <a href="https://www.sciencedaily.com/" target="_blank">https://www.sciencedaily.com/</a></p>
+<p style="color:#002859;">Physics.org-news: <a href="http://www.physics.org/news.asp" target="_blank">http://www.physics.org/news.asp</a></p>
+<p style="color:#002859;">NASA Science News: <a href="http://science.nasa.gov/science-news/" target="_blank">http://science.nasa.gov/science-news/</a></p>
+<p style="color:#002859;">SAO astro News: <a href="https://saoastronews.wordpress.com/" target="_blank">https://saoastronews.wordpress.com/</a></p>
+
+							</section>
+
+
+						<!-- Five -->
+							<section id="six">
+								<div class="container">
+								  <h3>More about me</h3>
+                                                                  <h1 style="color:#002859;">How to pronounce my name?</h1>
+
+<p>
+The last name 'Yan' (IPA: [jɛn˧˥]) is pronounced like common English name 'Ian'. My first name Ziang (IPA: [t͡sɹ̩˨˩˦ ɑŋ˧˥]) contains essentially TWO syllables 'Zi' and 'ang' lasting equal amount of time. The initial 'Z-' is like '-ds' in 'kids'. The first syllable sounds like a flying bee 'dzzzz'. The second syllable 'ang' is like the vowel part of English world 'strONG'. So my first name sounds like 'dzzzz-ang'. </p>
+
+<h1 style="color:#002859;">My Hometown</h1>
+<p style="color:#002859;"> I was born in Hunan province in middle-south of China. My hometown is Xinhuang, a beautiful town surrounded by rivers and mountains. We enjoy very spicy food. </p>
+<p style="color:#002859;" align="center"><img src="images/20110224142355150617.JPG" width=100% height=100% /></p>
+<p style="color:#002859;" align="center">(A picture of my hometown. Image from <a href="http://www.hnxhnews.com/Info.aspx?ModelId=1&amp;Id=8654" target="_blank">here</a>)</p>
+
+<h1 style="color:#002859;">My life outside science</h1>
+<p>I enjoy classical music from Baroque to late Romantic. I'm interested in entomology, linguistics and Chinese traditional poems. I play table tennis, violin and watch some Japanese anime during leisure time.</p>
+<p>You can find me on <a href="https://www.facebook.com/profile.php?id=100010315654740" target="_blank">Facebook</a> and <a href="https://www.weibo.com/cosmolumos/" target="_blank">Weibo</a>. Let's talk about Beethoven, Mahler and Miyazaki Hayao.</p>
+							</section>
+
+                                                        
+						<!-- Five -->
+						<!--
+							<section id="five">
+								<div class="container">
+									<h3>Elements</h3>
+
+									<section>
+										<h4>Text</h4>
+										<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
+										This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
+										This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>. Finally, <a href="#">this is a link</a>.</p>
+										<hr />
+										<header>
+											<h4>Heading with a Subtitle</h4>
+											<p>Lorem ipsum dolor sit amet nullam id egestas urna aliquam</p>
+										</header>
+										<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+										<header>
+											<h5>Heading with a Subtitle</h5>
+											<p>Lorem ipsum dolor sit amet nullam id egestas urna aliquam</p>
+										</header>
+										<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+										<hr />
+										<h2>Heading Level 2</h2>
+										<h3>Heading Level 3</h3>
+										<h4>Heading Level 4</h4>
+										<h5>Heading Level 5</h5>
+										<h6>Heading Level 6</h6>
+										<hr />
+										<h5>Blockquote</h5>
+										<blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus lorem ipsum dolor sit amet nullam adipiscing eu felis.</blockquote>
+										<h5>Preformatted</h5>
+										<pre><code>i = 0;
+
+while (!deck.isInOrder()) {
+    print 'Iteration ' + i;
+    deck.shuffle();
+    i++;
+}
+
+print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
+									</section>
+
+									<section>
+										<h4>Lists</h4>
+										<div class="row">
+											<div class="col-6 col-12-xsmall">
+												<h5>Unordered</h5>
+												<ul>
+													<li>Dolor pulvinar etiam magna etiam.</li>
+													<li>Sagittis adipiscing lorem eleifend.</li>
+													<li>Felis enim feugiat dolore viverra.</li>
+												</ul>
+												<h5>Alternate</h5>
+												<ul class="alt">
+													<li>Dolor pulvinar etiam magna etiam.</li>
+													<li>Sagittis adipiscing lorem eleifend.</li>
+													<li>Felis enim feugiat dolore viverra.</li>
+												</ul>
+											</div>
+											<div class="col-6 col-12-xsmall">
+												<h5>Ordered</h5>
+												<ol>
+													<li>Dolor pulvinar etiam magna etiam.</li>
+													<li>Etiam vel felis at lorem sed viverra.</li>
+													<li>Felis enim feugiat dolore viverra.</li>
+													<li>Dolor pulvinar etiam magna etiam.</li>
+													<li>Etiam vel felis at lorem sed viverra.</li>
+													<li>Felis enim feugiat dolore viverra.</li>
+												</ol>
+												<h5>Icons</h5>
+												<ul class="icons">
+													<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+													<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+													<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+													<li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>
+													<li><a href="#" class="icon brands fa-dribbble"><span class="label">Dribbble</span></a></li>
+													<li><a href="#" class="icon brands fa-tumblr"><span class="label">Tumblr</span></a></li>
+												</ul>
+											</div>
+										</div>
+										<h5>Actions</h5>
+										<ul class="actions">
+											<li><a href="#" class="button primary">Default</a></li>
+											<li><a href="#" class="button">Default</a></li>
+											<li><a href="#" class="button alt">Default</a></li>
+										</ul>
+										<ul class="actions small">
+											<li><a href="#" class="button primary small">Small</a></li>
+											<li><a href="#" class="button small">Small</a></li>
+											<li><a href="#" class="button alt small">Small</a></li>
+										</ul>
+										<div class="row">
+											<div class="col-3 col-6-medium col-12-xsmall">
+												<ul class="actions stacked">
+													<li><a href="#" class="button primary">Default</a></li>
+													<li><a href="#" class="button">Default</a></li>
+													<li><a href="#" class="button alt">Default</a></li>
+												</ul>
+											</div>
+											<div class="col-3 col-6 col-12-xsmall">
+												<ul class="actions stacked">
+													<li><a href="#" class="button primary small">Small</a></li>
+													<li><a href="#" class="button small">Small</a></li>
+													<li><a href="#" class="button alt small">Small</a></li>
+												</ul>
+											</div>
+											<div class="col-3 col-6-medium col-12-xsmall">
+												<ul class="actions stacked">
+													<li><a href="#" class="button primary fit">Default</a></li>
+													<li><a href="#" class="button fit">Default</a></li>
+													<li><a href="#" class="button alt fit">Default</a></li>
+												</ul>
+											</div>
+											<div class="col-3 col-6-medium col-12-xsmall">
+												<ul class="actions stacked">
+													<li><a href="#" class="button primary small fit">Small</a></li>
+													<li><a href="#" class="button small fit">Small</a></li>
+													<li><a href="#" class="button alt small fit">Small</a></li>
+												</ul>
+											</div>
+										</div>
+									</section>
+
+									<section>
+										<h4>Table</h4>
+										<h5>Default</h5>
+										<div class="table-wrapper">
+											<table>
+												<thead>
+													<tr>
+														<th>Name</th>
+														<th>Description</th>
+														<th>Price</th>
+													</tr>
+												</thead>
+												<tbody>
+													<tr>
+														<td>Item One</td>
+														<td>Ante turpis integer aliquet porttitor.</td>
+														<td>29.99</td>
+													</tr>
+													<tr>
+														<td>Item Two</td>
+														<td>Vis ac commodo adipiscing arcu aliquet.</td>
+														<td>19.99</td>
+													</tr>
+													<tr>
+														<td>Item Three</td>
+														<td> Morbi faucibus arcu accumsan lorem.</td>
+														<td>29.99</td>
+													</tr>
+													<tr>
+														<td>Item Four</td>
+														<td>Vitae integer tempus condimentum.</td>
+														<td>19.99</td>
+													</tr>
+													<tr>
+														<td>Item Five</td>
+														<td>Ante turpis integer aliquet porttitor.</td>
+														<td>29.99</td>
+													</tr>
+												</tbody>
+												<tfoot>
+													<tr>
+														<td colspan="2"></td>
+														<td>100.00</td>
+													</tr>
+												</tfoot>
+											</table>
+										</div>
+
+										<h5>Alternate</h5>
+										<div class="table-wrapper">
+											<table class="alt">
+												<thead>
+													<tr>
+														<th>Name</th>
+														<th>Description</th>
+														<th>Price</th>
+													</tr>
+												</thead>
+												<tbody>
+													<tr>
+														<td>Item One</td>
+														<td>Ante turpis integer aliquet porttitor.</td>
+														<td>29.99</td>
+													</tr>
+													<tr>
+														<td>Item Two</td>
+														<td>Vis ac commodo adipiscing arcu aliquet.</td>
+														<td>19.99</td>
+													</tr>
+													<tr>
+														<td>Item Three</td>
+														<td> Morbi faucibus arcu accumsan lorem.</td>
+														<td>29.99</td>
+													</tr>
+													<tr>
+														<td>Item Four</td>
+														<td>Vitae integer tempus condimentum.</td>
+														<td>19.99</td>
+													</tr>
+													<tr>
+														<td>Item Five</td>
+														<td>Ante turpis integer aliquet porttitor.</td>
+														<td>29.99</td>
+													</tr>
+												</tbody>
+												<tfoot>
+													<tr>
+														<td colspan="2"></td>
+														<td>100.00</td>
+													</tr>
+												</tfoot>
+											</table>
+										</div>
+									</section>
+
+									<section>
+										<h4>Buttons</h4>
+										<ul class="actions">
+											<li><a href="#" class="button primary">Primary</a></li>
+											<li><a href="#" class="button">Default</a></li>
+											<li><a href="#" class="button alt">Alternate</a></li>
+										</ul>
+										<ul class="actions">
+											<li><a href="#" class="button primary large">Large</a></li>
+											<li><a href="#" class="button">Default</a></li>
+											<li><a href="#" class="button alt small">Small</a></li>
+										</ul>
+										<ul class="actions fit">
+											<li><a href="#" class="button primary fit">Fit</a></li>
+											<li><a href="#" class="button fit">Fit</a></li>
+											<li><a href="#" class="button alt fit">Fit</a></li>
+										</ul>
+										<ul class="actions fit small">
+											<li><a href="#" class="button primary fit small">Fit + Small</a></li>
+											<li><a href="#" class="button fit small">Fit + Small</a></li>
+											<li><a href="#" class="button alt fit small">Fit + Small</a></li>
+										</ul>
+										<ul class="actions">
+											<li><a href="#" class="button primary icon solid fa-download">Icon</a></li>
+											<li><a href="#" class="button icon solid fa-download">Icon</a></li>
+											<li><a href="#" class="button alt icon solid fa-check">Icon</a></li>
+										</ul>
+										<ul class="actions">
+											<li><span class="button primary disabled">Primary</span></li>
+											<li><span class="button disabled">Default</span></li>
+											<li><span class="button alt disabled">Alternate</span></li>
+										</ul>
+									</section>
+
+									<section>
+										<h4>Form</h4>
+										<form method="post" action="#">
+											<div class="row gtr-uniform">
+												<div class="col-6 col-12-xsmall">
+													<input type="text" name="demo-name" id="demo-name" value="" placeholder="Name" />
+												</div>
+												<div class="col-6 col-12-xsmall">
+													<input type="email" name="demo-email" id="demo-email" value="" placeholder="Email" />
+												</div>
+												<div class="col-12">
+													<select name="demo-category" id="demo-category">
+														<option value="">- Category -</option>
+														<option value="1">Manufacturing</option>
+														<option value="1">Shipping</option>
+														<option value="1">Administration</option>
+														<option value="1">Human Resources</option>
+													</select>
+												</div>
+												<div class="col-4 col-12-medium">
+													<input type="radio" id="demo-priority-low" name="demo-priority" checked>
+													<label for="demo-priority-low">Low Priority</label>
+												</div>
+												<div class="col-4 col-12-medium">
+													<input type="radio" id="demo-priority-normal" name="demo-priority">
+													<label for="demo-priority-normal">Normal Priority</label>
+												</div>
+												<div class="col-4 col-12-medium">
+													<input type="radio" id="demo-priority-high" name="demo-priority">
+													<label for="demo-priority-high">High Priority</label>
+												</div>
+												<div class="col-6 col-12-medium">
+													<input type="checkbox" id="demo-copy" name="demo-copy">
+													<label for="demo-copy">Email me a copy of this message</label>
+												</div>
+												<div class="col-6 col-12-medium">
+													<input type="checkbox" id="demo-human" name="demo-human" checked>
+													<label for="demo-human">I am a human and not a robot</label>
+												</div>
+												<div class="col-12">
+													<textarea name="demo-message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>
+												</div>
+												<div class="col-12">
+													<ul class="actions">
+														<li><input type="submit" value="Send Message" /></li>
+														<li><input type="reset" value="Reset" class="alt" /></li>
+													</ul>
+												</div>
+											</div>
+										</form>
+									</section>
+
+									<section>
+										<h4>Image</h4>
+										<h5>Fit</h5>
+										<span class="image fit"><img src="images/banner.jpg" alt="" /></span>
+										<div class="box alt">
+											<div class="row gtr-50 gtr-uniform">
+												<div class="col-4"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
+												<div class="col-4"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
+												<div class="col-4"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
+												<div class="col-4"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
+												<div class="col-4"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
+												<div class="col-4"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
+												<div class="col-4"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
+												<div class="col-4"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
+												<div class="col-4"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
+											</div>
+										</div>
+										<h5>Left &amp; Right</h5>
+										<p><span class="image left"><img src="images/avatar.jpg" alt="" /></span>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.</p>
+										<p><span class="image right"><img src="images/avatar.jpg" alt="" /></span>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.</p>
+									</section>
+
+								</div>
+							</section>
+						-->
+
+					</div>
+
+				<!-- Footer -->
+					<section id="footer">
+						<div class="container">
+							<ul class="copyright">
+								<li>&copy; Ziang Yan. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+							</ul>
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
