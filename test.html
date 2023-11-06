@@ -17,23 +17,22 @@
     }
     #audio-container {
       position: absolute;
-      bottom: 20px; /* Adjust the position as needed */
+      top: 0.1%; /* Adjust the position as needed */
       left: 50%; /* Center horizontally */
       transform: translateX(-50%);
       z-index: 2;
-      background-color: rgba(255, 255, 255, 0.7); /* Background color for better visibility */
+      background-color: rgba(255, 255, 255, 0.4); /* Background color for better visibility */
       padding: 10px;
     }
   </style>
 </head>
 <body>
-  <img id="image" src="test.png" alt="Image Description">
-
   <div id="audio-container">
     <audio controls autoplay loop>
       <source src="liebesfreud.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
+  <img id="image" src="test.png" alt="Image Description">
 </body>
 </html>
