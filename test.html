@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Scrollable Image with Background Music</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      overflow: auto;
+    }
+    #image-container {
+      width: 100%;
+      height: auto;
+      overflow: auto;
+    }
+    #image {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+  </style>
+</head>
+<body>
+<iframe src="silence.mp3" allow="autoplay" id="audio" style="display: none"></iframe>
+  <div id="image-container">
+    <img id="image" src="test.png" alt="Image Description">
+  </div>
+  <audio id="player" controls autoplay loop>
+    <source src="liebesfreud.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+
+</body>
+</html>
