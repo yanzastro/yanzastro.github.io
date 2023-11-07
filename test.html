@@ -17,13 +17,26 @@
     }
     #audio-container {
       position: absolute;
-      top: 0.1%; /* Adjust the position as needed */
-      left: 50%; /* Center horizontally */
+      bottom: 20px; /* Adjust the position as needed */
+      left: 50%; /* Center horizontally by default */
       transform: translateX(-50%);
       z-index: 2;
-      background-color: rgba(255, 255, 255, 0.0); /* Background color for better visibility */
+      background-color: rgba(255, 255, 255, 0.7); /* Background color for better visibility */
       padding: 10px;
       text-align: center;
+    }
+    #audio-description {
+      display: block;
+    }
+
+    @media (max-width: 768px) {
+      #audio-container {
+        text-align: left; /* Align to the left on smaller screens */
+      }
+    #audio-description {
+      display: block;
+      color: white; /* Set the text color to white */
+    }
     }
   </style>
 </head>
@@ -33,8 +46,12 @@
       <source src="liebesfreud.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
-    <p style="color: rgb(255, 255, 255); font-size:18px;" >爱的喜悦-克莱斯勒</p>
+    <span id="audio-description" >爱的喜悦-克莱斯勒</span>
   </div>
+  <script>
+    // Set the default volume to a lower value (e.g., 0.5 for half volume)
+    document.querySelector('audio').volume = 0.5;
+  </script>
   <img id="image" src="test.jpg" alt="Image Description">
 </body>
 </html>
