@@ -3004,10 +3004,10 @@ input, select, textarea {
 				top: 0;
 				width: 23em;
 				z-index: 10002;
-				-moz-transform: translateX(23em);
-				-webkit-transform: translateX(23em);
-				-ms-transform: translateX(23em);
-				transform: translateX(23em);
+				-moz-transform: translateX(-23em);
+				-webkit-transform: translateX(-23em);
+				-ms-transform: translateX(-23em);
+				transform: translateX(-23em);
 				left: 0;
 			}
 
@@ -3063,7 +3063,7 @@ input, select, textarea {
 					font-weight: 700;
 					height: 44px;
 					line-height: 44px;
-					padding: 0 44px;
+					padding: 0 50px;
 					width: 100%;
 					text-align: left;
 				}
@@ -3113,10 +3113,10 @@ input, select, textarea {
 					}
 
 			body.header-visible #wrapper, body.header-visible #titleBar {
-				-moz-transform: translateX(-23em);
-				-webkit-transform: translateX(-23em);
-				-ms-transform: translateX(-23em);
-				transform: translateX(-23em);
+				-moz-transform: translateX(23em);
+				-webkit-transform: translateX(23em);
+				-ms-transform: translateX(23em);
+				transform: translateX(23em);
 			}
 
 			body.header-visible #header {
