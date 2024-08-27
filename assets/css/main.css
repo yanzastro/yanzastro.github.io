@@ -72,6 +72,17 @@ input, select, textarea {
 	appearance: none;
 }
 
+div.research_block {
+    /* background: linear-gradient(rgba(33, 39, 44, 0.8), rgba(33, 39, 44, 0.8)), 
+    url("/image/background.jpg"); */
+    margin-top: 10px;
+    width: 900px;
+    display:block;
+    padding: 23px;
+    border: 2px solid #aaa;
+    border-radius: 10px 10px 10px 10px;
+}
+
 /* Basic */
 
 	html {
@@ -131,7 +142,7 @@ input, select, textarea {
 
 	p {
 		margin: 0 0 0.25em 0;
-		text-indent:2em;
+		text-indent:1em;
 		
 	}
 
