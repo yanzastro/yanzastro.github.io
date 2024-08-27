@@ -3081,7 +3081,7 @@ input, select, textarea {
 					width: 6em;
 					border: 0;
 					outline: 0;
-					right: 0;
+					left: 0;
 				}
 
 					#titleBar .toggle:before {
@@ -3109,7 +3109,7 @@ input, select, textarea {
 						text-align: center;
 						top: 0;
 						width: 64px;
-						right: 0;
+						left: 0;
 					}
 
 			body.header-visible #wrapper, body.header-visible #titleBar {
@@ -3204,7 +3204,7 @@ input, select, textarea {
 				-webkit-transform: translateX(17em);
 				-ms-transform: translateX(17em);
 				transform: translateX(17em);
-				right: 0;
+				left: 0;
 			}
 
 				#header > header {
