@@ -3008,7 +3008,7 @@ input, select, textarea {
 				-webkit-transform: translateX(23em);
 				-ms-transform: translateX(23em);
 				transform: translateX(23em);
-				right: 0;
+				left: 0;
 			}
 
 				#header > footer {
@@ -3063,7 +3063,7 @@ input, select, textarea {
 					font-weight: 700;
 					height: 44px;
 					line-height: 44px;
-					padding: 0 1em;
+					padding: 0 44px;
 					width: 100%;
 					text-align: left;
 				}
