@@ -79,7 +79,7 @@ div.research_block {
     width: 100%;
     display:block;
     padding: 23px;
-    border: 2px solid rgba(255, 255, 255, 0.6);
+    border: 2px solid #aaa;
     border-radius: 10px 10px 10px 10px;
 }
 
@@ -90,7 +90,7 @@ div.full_block {
     min-height: 100vh;
     display:block;
     padding: 23px;
-    border: 2px solid #2a5298;
+    border: 2px solid #ffffff;
     border-radius: 10px 10px 10px 10px;
 }
 /* Basic */
@@ -119,7 +119,7 @@ div.full_block {
 		}
 
 	body, input, select, textarea {
-		color: #d8d8d8;
+		color: #666666;
 		font-family: "Lato", sans-serif;
 		font-size: 16pt;
 		font-weight: 400;
@@ -138,11 +138,11 @@ div.full_block {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #F5F5DC !important;
+			color: #1e3c72 !important;
 		}
 
 	strong, b {
-		color: #fff;
+		color: #666666;
 		font-weight: 700;
 	}
 
@@ -153,13 +153,12 @@ div.full_block {
 	p {
 		margin: 0 0 0.25em 0;
 		text-indent:1em;
-		color: rgba(255, 255, 255, 0.8)
 		
 	}
 
 	h1, h2, h3, h4, h5, h6 {
         font-size: 1.5em;
-		color: #fff;
+		color: #1e3c72;
 		font-weight: 700;
 		line-height: 1em;
 		margin: 0.5em 0 0.5625em 0; 
@@ -1821,7 +1820,7 @@ div.full_block {
 	}
 
 	header.major h2 {
-		color: #fff;
+		color: #1e3c72;
 		font-size: 2.5em;
 	}
 
@@ -2197,7 +2196,7 @@ div.full_block {
 
 		.image img {
 			border-radius: 5px;
-			
+			display: block;
 		}
 
 		.image.left {
@@ -2226,17 +2225,12 @@ div.full_block {
 		.image.avatar {
 			border-radius: 100%;
 			overflow: hidden;
-			vertical-align: middle;
-			justify-content: center;
-			text-align: center;
 		}
 
 			.image.avatar img {
 				border-radius: 100%;
-				
-				width: 15em;
-				text-align: center;
-				justify-content: center;
+				display: block;
+				width: 100%;
 			}
 
 		.image.main {
@@ -2744,14 +2738,13 @@ div.full_block {
 		-ms-justify-content: space-between;
 		justify-content: space-between;
 		background: #1e3c72;
-		background-image: linear-gradient(90deg,   #022a71, #2a5298 );
+		background-image: linear-gradient(180deg,   #1e3c72, #2a5298 );
 		color: #d2f2e9;
 		height: 100%;
 		/*overflow-y: auto;*/
 		position: fixed;
 		text-align: center;
 		top: 0;
-		padding-top: 5em;
 		width: 23em;
 		left: 0;
 		<!-- right: 0; -->
@@ -2782,7 +2775,7 @@ div.full_block {
 			-webkit-flex-shrink: 0;
 			-ms-flex-shrink: 0;
 			flex-shrink: 0;
-			padding: 0.5em;
+			padding: 3em;
 		}
 
 		#header > header .avatar {
@@ -2794,13 +2787,13 @@ div.full_block {
 
 			#header > header h1 {
                             color: #f4f7fc;
-				font-size: 1.3em;
+				font-size: 1.75em;
 				margin: 0;
 			}
                         
 			#header > header h2 {
                             color: #f4f7fc;
-				font-size: 1.3em;
+				font-size: 1.45em;
 				margin: 0.3em 0;
 			}
 
@@ -2845,7 +2838,7 @@ div.full_block {
 				#header > nav ul li {
 					border-top: solid 0px #1e3c72;
 					display: block;
-					padding: 0.5em;
+					padding: 0;
 				}
 
 					#header > nav ul li a {
@@ -2853,19 +2846,16 @@ div.full_block {
 						-webkit-transition: none;
 						-ms-transition: none;
 						transition: none;
-						border: 2em;
-						margin: 0 4em 0 4em;
-						color: rgba(255, 255, 255, 0.5) !important;
+						border: 0;
+						color: #f4f7fc !important;
 						display: block;
-						padding: 0.2em 0;
-						border-bottom: solid 2px #2a5298;
+						padding: 0.35em 0;
 						text-decoration: none;
 					}
 
 						#header > nav ul li a.active {
-							margin: 0 4em 0 4em;
-							color: #fff !important;
-							border-bottom: solid 2px rgba(255, 255, 255, 0.8);
+							background: #fff;
+							color: #1e3c72 !important;
 						}
 
 					#header > nav ul li:first-child {
@@ -2875,20 +2865,20 @@ div.full_block {
 /* Wrapper */
 
 	#wrapper {
-		background: #2a5298;
+		background: #fff;
 		/* padding-right: 23em; */
-		padding-left: 26em;
+		padding-left: 23em;
     		padding-right: 0;
 	}
 
 /* Main */
 
 	#main > section {
-		border-top: solid 6px #2e5aa7;
+		border-top: solid 6px #f4f4f4;
 	}
 
 		#main > section > .container {
-			padding: 0.5em 0 0.5em 0;
+			padding: 2em 0 2em 0;
 			padding-left: 0
 		}
 
@@ -2899,7 +2889,7 @@ div.full_block {
 /* Footer */
 
 	#footer {
-		background: #2a5298;
+		background: #fafafa;
 		border-top: 0;
 		color: #c0c0c0;
 		overflow: hidden;
@@ -2964,7 +2954,7 @@ div.full_block {
 		/* Main */
 
 			#main > section > .container {
-				padding: 4em 0 0.5em 0;
+				padding: 4em 0 2em 0;
 			}
 
 	}
