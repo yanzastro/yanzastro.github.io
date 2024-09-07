@@ -1783,7 +1783,7 @@ div.full_block {
 		@media screen and (max-width: 480px) {
 
 			.container {
-				max-width: calc(100% - 3.375em);
+				max-width: 92%;
 			}
 
 		}
@@ -3327,6 +3327,9 @@ div.full_block {
 
 			body, input, select, textarea {
 				font-size: 12pt;
+			}
+			.container {
+				margin: 0 0 0 3%;
 			}
 
 		/* List */
