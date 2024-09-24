@@ -185,12 +185,11 @@
 
             </div>
             <div class="research_block">
-               <h3>Developing tools and pipelines for LSS analyses</h3>
-               <h4>Organized randoms for galaxy clustering measurements</h4>
+               <h3>Correcting selection effects for angular galaxy clustering from deep surveys</h3>
                <p align="center" style="text-indent:0;"><img src="or.png" width="100%" height="100%" /></p>
                   <p align="center" style="text-indent:0; font-size: 0.8em">(Left and middle panels: part of KiDS-Legacy galaxy map and associated organized randoms map; right panel: 2PCF from mock galaxy catalog with data-driven selections)</p>
                <p>
-                  Survey-induced non-uniformity can bias galaxy clustering measurements. In this work, we developed a machine-learning-based method to construct "organized randoms" to mitigate such biases. This approach is model-independent and can accommodate arbitrary selection functions.
+                  Deep surveys are subject to complex selection effects from the Milky Way, atmosphere, and the instruments, which leaves a variable depth pattern in the galaxy sample. This pattern, if not corrected, will bias the angular galaxy clustering measurement. In this work, we developed a machine-learning-based method to construct "organized randoms" to mitigate such biases. This approach is model-independent and can accommodate arbitrary selection functions. For KiDS survey, this method can correct a selection-induced bias in (Ω<sub>m</sub>, <i>b</i>) from 30σ to 0.3σ level. This method can be applied to upcoming deep surveys (such as the LSST with a <a href="https://pstn-052.lsst.io/" target="_blank" rel="noopener">"Rolling Cadence" survey strategy</a>) to correct selection effects.
                   
                </p>
                <p><b>Slides: <a href="SOM+HC.pdf" title="organized_randoms.pdf" class="icon fa-file-pdf" target="_blank"></a></b></p>
@@ -198,14 +197,17 @@
                   
                   <b>Github repo: <a href="https://github.com/yanzastro/tiaogeng/tree/dev" target="_blank" rel="noopener">the 'tiaogeng' package</a></b>
                </p>
-
-               <h4>Pipeline development for weak lensing cosmology</h4>
+            </div>
+            <div class="research_block">
+               <h3>Pipeline development for weak lensing cosmology</h3>
                <p align="center" style="text-indent:0;"><img src="rail_som.png" width="90%" height="90%" /></p>
                <p align="center" style="text-indent:0; font-size: 0.8em">(Left panel: mean redshift in each SOM cell for a training galaxy set given by <a href="https://data.lsstdesc.org/doc/cosmodc2" target="_blank" rel="noopener">cosmoDC2</a>; right panel: true and SOM-calibrated N(z) for a testing set.)</p>
                <p>
                   As an in-kind contributor to DESC, I have contributed to developing the <a href="https://rail-external-html-rtd.readthedocs.io/en/latest/" target="_blank" rel="noopener">Redshift Assessment Infrastructure Layers</a>. I have developed code for photometric realization, spectroscopic selection, and self-organized random calibration of redshift distribution for weak lensing cosmology.
                </p>
-               
+               <p>
+                  In addition, I'm leading the development of the KiDS 6x2pt measurement pipeline.
+               </p>
                <p>
                   <b>Github repo: <a href="https://github.com/LSSTDESC/rail_som" target="_blank" rel="noopener">the 'rail_som' package</a></b>
                </p>
